@@ -63,6 +63,9 @@ export const metadata = {
         description: '285+ Curated Nostalgic 90s & 80s Hindi Songs, Retro Bollywood Lofi, and Classic Melodies in an ambient chillout cassette player.',
         images: ['/assets/lallan.png'],
     },
+    verification: {
+        google: 'vIXrnEChNea9_41AjShuCHgGxLb4j9r4G8QsJufmU3c',
+    },
     category: 'music',
 };
 
