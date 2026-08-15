@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lallan-library.vercel.app/sitemap.xml
