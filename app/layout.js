@@ -117,8 +117,8 @@ export default function RootLayout({ children }) {
                 <meta name="mobile-web-app-capable" content="yes" />
                 <meta name="apple-mobile-web-app-capable" content="yes" />
                 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-                <meta name="apple-mobile-web-app-title" content="लल्लन लाइब्रेरी" />
-                <meta name="application-name" content="लल्लन लाइब्रेरी" />
+                <meta name="apple-mobile-web-app-title" content="Lallan Library" />
+                <meta name="application-name" content="Lallan Library" />
                 <script
                     type="application/ld+json"
                     dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
