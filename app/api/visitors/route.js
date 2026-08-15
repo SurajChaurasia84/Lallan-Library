@@ -1,23 +1,27 @@
 import { NextResponse } from 'next/server';
+import os from 'os';
 import fs from 'fs';
 import path from 'path';
 
-const VISITORS_FILE = path.join(process.cwd(), 'visitors.json');
+let memoryVisitorCount = 1250;
+const VISITORS_FILE = path.join(os.tmpdir(), 'lallan_visitors.json');
 
-function getVisitorStats() {
+function getVisitorCount() {
     try {
-        if (!fs.existsSync(VISITORS_FILE)) {
-            fs.writeFileSync(VISITORS_FILE, JSON.stringify({ total: 0, lastUpdated: new Date().toISOString() }, null, 2));
+        if (fs.existsSync(VISITORS_FILE)) {
+            const data = JSON.parse(fs.readFileSync(VISITORS_FILE, 'utf8'));
+            if (typeof data.count === 'number') {
+                return data.count;
+            }
         }
-        return JSON.parse(fs.readFileSync(VISITORS_FILE, 'utf8'));
-    } catch (e) {
-        return { total: 0 };
-    }
+    } catch (e) {}
+    return memoryVisitorCount;
 }
 
-function saveVisitorStats(stats) {
+function saveVisitorCount(count) {
+    memoryVisitorCount = count;
     try {
-        fs.writeFileSync(VISITORS_FILE, JSON.stringify(stats, null, 2), 'utf8');
+        fs.writeFileSync(VISITORS_FILE, JSON.stringify({ count, lastUpdated: new Date().toISOString() }));
     } catch (e) {}
 }
 
@@ -26,16 +30,14 @@ export const dynamic = 'force-dynamic';
 export async function GET(request) {
     const ip = request.headers.get('x-forwarded-for') || request.headers.get('x-real-ip') || '';
     const host = request.headers.get('host') || '';
-    const isLocal = ip.includes('127.0.0.1') || ip.includes('::1') || host.includes('localhost') || host.includes('127.0.0.1');
+    const isLocal = ip.includes('127.0.0.1') || ip.includes('::1') || host.includes('localhost');
 
-    const stats = getVisitorStats();
-
+    let current = getVisitorCount();
     if (!isLocal) {
-        stats.total = (stats.total || 0) + 1;
-        stats.lastUpdated = new Date().toISOString();
-        saveVisitorStats(stats);
-        return NextResponse.json({ count: stats.total, isLocal: false });
+        current += 1;
+        saveVisitorCount(current);
+        return NextResponse.json({ count: current, isLocal: false });
     }
 
-    return NextResponse.json({ count: stats.total || 0, isLocal: true });
+    return NextResponse.json({ count: current, isLocal: true });
 }
