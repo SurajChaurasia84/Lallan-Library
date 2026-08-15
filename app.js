@@ -16,1551 +16,11 @@
             desc: 'सभी प्लेलिस्ट्स का नॉन-स्टॉप रैंडम मिश्रण • कोई दोहराव नहीं',
             tracks: [
         {
-                "id": "i6Y-KWesCcs",
-                "title": "Saat Samundar - reprise version",
-                "artist": "𝐈𝐭'𝐬 𝕥𝕚𝕥𝕙𝕚",
-                "duration": "3:43",
-                "art": "https://img.youtube.com/vi/i6Y-KWesCcs/hqdefault.jpg"
-        },
-        {
-                "id": "LxPeBJU3LHg",
-                "title": "Tukur Tukur Dekhte Ho Kya",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:12",
-                "art": "https://img.youtube.com/vi/LxPeBJU3LHg/hqdefault.jpg"
-        },
-        {
-                "id": "qZ78-_PdbwQ",
-                "title": "𝐀𝐋𝐋 𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆 𝐇𝐈𝐍𝐃𝐈 𝐒𝐎𝐍𝐆𝐒 𝟐𝟎𝟐𝟔",
-                "artist": "Aesthetic boomer",
-                "duration": "11:52",
-                "art": "https://img.youtube.com/vi/qZ78-_PdbwQ/hqdefault.jpg"
-        },
-        {
-                "id": "JfcYRdjbcy4",
-                "title": "Bahut Jatate Ho Pyar",
-                "artist": "Alka Yagnik",
-                "duration": "7:11",
-                "art": "https://img.youtube.com/vi/JfcYRdjbcy4/hqdefault.jpg"
-        },
-        {
-                "id": "pMHydGL4URo",
-                "title": "Gore Gore Mukhde Pe",
-                "artist": "Udit Narayan",
-                "duration": "5:12",
-                "art": "https://img.youtube.com/vi/pMHydGL4URo/hqdefault.jpg"
-        },
-        {
-                "id": "cSq1B5goEfA",
-                "title": "Mohabbat Ho Na Jaye",
-                "artist": "Alka Yagnik",
-                "duration": "6:35",
-                "art": "https://img.youtube.com/vi/cSq1B5goEfA/hqdefault.jpg"
-        },
-        {
-                "id": "8hvwzeAbFm8",
-                "title": "Jhanjharia (Male)",
-                "artist": "Abhijeet Unplugged",
-                "duration": "4:43",
-                "art": "https://img.youtube.com/vi/8hvwzeAbFm8/hqdefault.jpg"
-        },
-        {
-                "id": "flQgOwg4jLI",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐅𝐨𝐫 𝐘𝐨𝐮 𝐓𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐅𝐚𝐤𝐞 𝐒𝐜𝐞𝐧𝐚𝐫𝐢𝐨𝐬 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐌𝐢𝐧𝐝 🤍",
-                "artist": "Ashik's Cloudlist",
-                "duration": "15:10",
-                "art": "https://img.youtube.com/vi/flQgOwg4jLI/hqdefault.jpg"
-        },
-        {
-                "id": "kq0BmZ9xJps",
-                "title": "Ankh Hai Bhari Bhari (Male Version)",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:17",
-                "art": "https://img.youtube.com/vi/kq0BmZ9xJps/hqdefault.jpg"
-        },
-        {
-                "id": "5SGxpmPt9j0",
-                "title": "Kahin Mujhe Pyar Hua Toh Nahin",
-                "artist": "Alka Yagnik",
-                "duration": "7:04",
-                "art": "https://img.youtube.com/vi/5SGxpmPt9j0/hqdefault.jpg"
-        },
-        {
-                "id": "uugO0vlmUi8",
-                "title": "Mera Mann",
-                "artist": "Udit Narayan",
-                "duration": "4:36",
-                "art": "https://img.youtube.com/vi/uugO0vlmUi8/hqdefault.jpg"
-        },
-        {
-                "id": "aj8Dsv36R1c",
-                "title": "Chori Chori Dil Tera Churayenge (HD)",
-                "artist": "Shemaroo Filmi Gaane",
-                "duration": "4:39",
-                "art": "https://img.youtube.com/vi/aj8Dsv36R1c/hqdefault.jpg"
-        },
-        {
-                "id": "a63m9hVp5uo",
-                "title": "Bol Do Na Zara",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:19",
-                "art": "https://img.youtube.com/vi/a63m9hVp5uo/hqdefault.jpg"
-        },
-        {
-                "id": "rmTkVzFMGDI",
-                "title": "LO-FI 2307's NON STOP INSTAGRAM TRENDING LOVE MASHUP - Part 22",
-                "artist": "Lo-fi 2307",
-                "duration": "38:16",
-                "art": "https://img.youtube.com/vi/rmTkVzFMGDI/hqdefault.jpg"
-        },
-        {
-                "id": "rwVSC52Rp7c",
-                "title": "𝐃𝐞𝐬𝐢 𝐛𝐚𝐝𝐝𝐢𝐞 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐜𝐮𝐳 𝐲𝐨𝐮'𝐫𝐞 𝐛𝐚𝐜𝐤 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐩𝐫𝐢𝐦𝐞__💋💅. Diva_vibez ࣪ ִֶָ☾.",
-                "artist": "rie",
-                "duration": "13:51",
-                "art": "https://img.youtube.com/vi/rwVSC52Rp7c/hqdefault.jpg"
-        },
-        {
-                "id": "TwZRSYKyMVk",
-                "title": "Samjhawan - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:19",
-                "art": "https://img.youtube.com/vi/TwZRSYKyMVk/hqdefault.jpg"
-        },
-        {
-                "id": "h6bks-tkoZU",
-                "title": "𝑷𝑶𝑽 : 𝒕𝒉𝒆𝒔𝒆 𝒔𝒐𝒏𝒈𝒔 𝒇𝒐𝒖𝒏𝒅 𝒚𝒐𝒖 𝒘𝒉𝒆𝒏 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅𝒆𝒅 𝒕𝒉𝒆𝒎 𝒎𝒐𝒔𝒕.",
-                "artist": "Aesthetic boomer",
-                "duration": "12:06",
-                "art": "https://img.youtube.com/vi/h6bks-tkoZU/hqdefault.jpg"
-        },
-        {
-                "id": "QCelXisFtFY",
-                "title": "Mohabbat Ki Nahin Jaati",
-                "artist": "Udit Narayan",
-                "duration": "5:51",
-                "art": "https://img.youtube.com/vi/QCelXisFtFY/hqdefault.jpg"
-        },
-        {
-                "id": "xIj33nXPvxg",
-                "title": "Desi playlist which will make you dance at 3am!",
-                "artist": "Xthetic._Ashi.",
-                "duration": "7:12",
-                "art": "https://img.youtube.com/vi/xIj33nXPvxg/hqdefault.jpg"
-        },
-        {
-                "id": "vYGw1V2NSik",
-                "title": "Dil Ke Paas (Indian Version) Lyrical Video Song",
-                "artist": "T-Series",
-                "duration": "4:25",
-                "art": "https://img.youtube.com/vi/vYGw1V2NSik/hqdefault.jpg"
-        },
-        {
-                "id": "fLZ-SRvkk_M",
-                "title": "Hasi - ( Female Cover)",
-                "artist": "Ear Candy",
-                "duration": "4:19",
-                "art": "https://img.youtube.com/vi/fLZ-SRvkk_M/hqdefault.jpg"
-        },
-        {
-                "id": "TzFu8eCkEpY",
-                "title": "Bairan - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:56",
-                "art": "https://img.youtube.com/vi/TzFu8eCkEpY/hqdefault.jpg"
-        },
-        {
-                "id": "vmzbVgLShEw",
-                "title": "Ladki Badi Anjani Hai",
-                "artist": "Jatin Lalit",
-                "duration": "6:22",
-                "art": "https://img.youtube.com/vi/vmzbVgLShEw/hqdefault.jpg"
-        },
-        {
-                "id": "m7g2msu34sA",
-                "title": "ARZ KIYA HAI - (Slowed +  Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:09",
-                "art": "https://img.youtube.com/vi/m7g2msu34sA/hqdefault.jpg"
-        },
-        {
-                "id": "RizsJydNAEY",
-                "title": "Ae Mere Humsafar",
-                "artist": "Vinod Rathod",
-                "duration": "7:34",
-                "art": "https://img.youtube.com/vi/RizsJydNAEY/hqdefault.jpg"
-        },
-        {
-                "id": "5YZbx5WPRb8",
-                "title": "Saiyaara - Reprise Female (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:19",
-                "art": "https://img.youtube.com/vi/5YZbx5WPRb8/hqdefault.jpg"
-        },
-        {
-                "id": "3e3o-9ZOx-Q",
-                "title": "Mujhe Neend Na Aaye",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "6:14",
-                "art": "https://img.youtube.com/vi/3e3o-9ZOx-Q/hqdefault.jpg"
-        },
-        {
-                "id": "LMpSZWT1O78",
-                "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:40",
-                "art": "https://img.youtube.com/vi/LMpSZWT1O78/hqdefault.jpg"
-        },
-        {
-                "id": "c8TGh60bBO4",
-                "title": "MAI RANG SHARBATON KA - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:00",
-                "art": "https://img.youtube.com/vi/c8TGh60bBO4/hqdefault.jpg"
-        },
-        {
-                "id": "ar_m3IbjS4c",
-                "title": "TUMSE MILNA",
-                "artist": "Udit Narayan",
-                "duration": "4:39",
-                "art": "https://img.youtube.com/vi/ar_m3IbjS4c/hqdefault.jpg"
-        },
-        {
-                "id": "-1CwZ-U7UEs",
-                "title": "1 Hour Of Pure Lofi",
-                "artist": "One lofi",
-                "duration": "63:55",
-                "art": "https://img.youtube.com/vi/-1CwZ-U7UEs/hqdefault.jpg"
-        },
-        {
-                "id": "BAT5NwaMig4",
-                "title": "Heeriye (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:31",
-                "art": "https://img.youtube.com/vi/BAT5NwaMig4/hqdefault.jpg"
-        },
-        {
-                "id": "kff7Wdv83gw",
-                "title": "HAULE HAULE - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:19",
-                "art": "https://img.youtube.com/vi/kff7Wdv83gw/hqdefault.jpg"
-        },
-        {
-                "id": "ip69IsY2YoU",
-                "title": "Ishq De Fanniyar, Achchi Lagti Ho, Fakira, O Maahi, O Sajni Re",
-                "artist": "ZEN LOFI SONG",
-                "duration": "17:29",
-                "art": "https://img.youtube.com/vi/ip69IsY2YoU/hqdefault.jpg"
-        },
-        {
-                "id": "5XlMEITbghM",
-                "title": "NA MILO KAHIN PYAR",
-                "artist": "Sonu Nigam",
-                "duration": "6:43",
-                "art": "https://img.youtube.com/vi/5XlMEITbghM/hqdefault.jpg"
-        },
-        {
-                "id": "n4PhQkECJTk",
-                "title": "HASEEN - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:03",
-                "art": "https://img.youtube.com/vi/n4PhQkECJTk/hqdefault.jpg"
-        },
-        {
-                "id": "3jPv11cJEcU",
-                "title": "Yeh Ladka Hai Allah",
-                "artist": "Jatin Lalit",
-                "duration": "5:27",
-                "art": "https://img.youtube.com/vi/3jPv11cJEcU/hqdefault.jpg"
-        },
-        {
-                "id": "1yxPgW0runE",
-                "title": "Teri Deewani - (Slowed & Reverbed) Only Vocals/Acapella",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:23",
-                "art": "https://img.youtube.com/vi/1yxPgW0runE/hqdefault.jpg"
-        },
-        {
-                "id": "WluPT_c7pw8",
-                "title": "Mai Rang Sharbaton Ka (Lofi Remix)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:23",
-                "art": "https://img.youtube.com/vi/WluPT_c7pw8/hqdefault.jpg"
-        },
-        {
-                "id": "FNOMfEtE1UQ",
-                "title": "Itna Bhi Na Chaho Mujhe",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:06",
-                "art": "https://img.youtube.com/vi/FNOMfEtE1UQ/hqdefault.jpg"
-        },
-        {
-                "id": "t9UlaL-3sHA",
-                "title": "Thoda thoda pyaar (slowed+reverb)",
-                "artist": "Pradabae",
-                "duration": "4:30",
-                "art": "https://img.youtube.com/vi/t9UlaL-3sHA/hqdefault.jpg"
-        },
-        {
-                "id": "yyMoXlT2-5U",
-                "title": "𝐀𝐥𝐥 𝐓𝐫𝐞𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐧𝐠𝐬 𝐨𝐟 𝟐𝟎𝟐𝟔",
-                "artist": "Aesthetic boomer",
-                "duration": "11:50",
-                "art": "https://img.youtube.com/vi/yyMoXlT2-5U/hqdefault.jpg"
-        },
-        {
-                "id": "lT6lXIV50L4",
-                "title": "SAHIBA AAYE GHAR KAHE NA - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:53",
-                "art": "https://img.youtube.com/vi/lT6lXIV50L4/hqdefault.jpg"
-        },
-        {
-                "id": "29JWqpkLv2o",
-                "title": "Rab Kare",
-                "artist": "Udit Narayan",
-                "duration": "4:20",
-                "art": "https://img.youtube.com/vi/29JWqpkLv2o/hqdefault.jpg"
-        },
-        {
-                "id": "cVT3BKkPCc4",
-                "title": "Is Tarah Aashiqui Ka - Kumar Sanu",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:23",
-                "art": "https://img.youtube.com/vi/cVT3BKkPCc4/hqdefault.jpg"
-        },
-        {
-                "id": "bT9XMKsxmHw",
-                "title": "𝐃𝐞𝐬𝐢 𝐬𝐨𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐦𝐚𝐠𝐢𝐧𝐚𝐫𝐲 𝐬𝐜𝐞𝐧𝐞𝐬 𝐰𝐢𝐭𝐡 𝐮𝐫 𝐜𝐫𝐮𝐬𝐡..😭🌸..",
-                "artist": "♡𝐈𝐭𝐳 𝐑𝐨𝐬𝐞♡",
-                "duration": "3:33",
-                "art": "https://img.youtube.com/vi/bT9XMKsxmHw/hqdefault.jpg"
-        },
-        {
-                "id": "AlrRpGEL2h4",
-                "title": "Jaadu Teri Nazar",
-                "artist": "Udit Narayan",
-                "duration": "4:40",
-                "art": "https://img.youtube.com/vi/AlrRpGEL2h4/hqdefault.jpg"
-        },
-        {
-                "id": "uMsR_R9xWpM",
-                "title": "Roi Na Je yaad Meri Aayi Ve",
-                "artist": "Mayank Singh Rajawat",
-                "duration": "3:10",
-                "art": "https://img.youtube.com/vi/uMsR_R9xWpM/hqdefault.jpg"
-        },
-        {
-                "id": "M-r-qES1GNM",
-                "title": "FOR A REASON - (Slowed + Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:02",
-                "art": "https://img.youtube.com/vi/M-r-qES1GNM/hqdefault.jpg"
-        },
-        {
-                "id": "2t0kdcYVECQ",
-                "title": "TUM JO AAYE",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:51",
-                "art": "https://img.youtube.com/vi/2t0kdcYVECQ/hqdefault.jpg"
-        },
-        {
-                "id": "T12GUFSsV3M",
-                "title": "Mind relaxing lofi mashup♥️",
-                "artist": "Vibewithrohan01",
-                "duration": "6:47",
-                "art": "https://img.youtube.com/vi/T12GUFSsV3M/hqdefault.jpg"
-        },
-        {
-                "id": "w7AD06Gmt0s",
-                "title": "Tu Hain Toh Main Hoon (Slowed & Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:32",
-                "art": "https://img.youtube.com/vi/w7AD06Gmt0s/hqdefault.jpg"
-        },
-        {
-                "id": "NWCG3MUDc0A",
-                "title": "Aye Mere Humsafar",
-                "artist": "Udit Narayan",
-                "duration": "5:56",
-                "art": "https://img.youtube.com/vi/NWCG3MUDc0A/hqdefault.jpg"
-        },
-        {
-                "id": "-ibj0TgN8WU",
-                "title": "Suno Na Suno Na",
-                "artist": "Abhijeet Unplugged",
-                "duration": "5:19",
-                "art": "https://img.youtube.com/vi/-ibj0TgN8WU/hqdefault.jpg"
-        },
-        {
-                "id": "Bwvl1jvJRws",
-                "title": "Chahu Mai Ya Na - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:33",
-                "art": "https://img.youtube.com/vi/Bwvl1jvJRws/hqdefault.jpg"
-        },
-        {
-                "id": "0nnJ4WoR7Ao",
-                "title": "Jaan Nisar - Lofi (Slowed+Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:03",
-                "art": "https://img.youtube.com/vi/0nnJ4WoR7Ao/hqdefault.jpg"
-        },
-        {
-                "id": "jygCjaw9jbU",
-                "title": "Aaye Ho Meri Zindagi Mein (Female-)",
-                "artist": "Alka Yagnik",
-                "duration": "6:00",
-                "art": "https://img.youtube.com/vi/jygCjaw9jbU/hqdefault.jpg"
-        },
-        {
-                "id": "Xj9RXNcK5Vo",
-                "title": "Muskurane – (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:20",
-                "art": "https://img.youtube.com/vi/Xj9RXNcK5Vo/hqdefault.jpg"
-        },
-        {
-                "id": "mT3xyXTzqHM",
-                "title": "Bheegi Huyee Hai Raat",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:21",
-                "art": "https://img.youtube.com/vi/mT3xyXTzqHM/hqdefault.jpg"
-        },
-        {
-                "id": "Xq_80jTNuQ4",
-                "title": "Lo Safar Shuru ho gaya 💖",
-                "artist": "Apna Lofi  Song",
-                "duration": "5:28",
-                "art": "https://img.youtube.com/vi/Xq_80jTNuQ4/hqdefault.jpg"
-        },
-        {
-                "id": "pojYDw2hIB0",
-                "title": "Sone Rang De Ranjheya║Jyotica Tangri║Fukrey returns║Slowed & Reverb║",
-                "artist": "LÖFÍ QUEEN 👑",
-                "duration": "3:07",
-                "art": "https://img.youtube.com/vi/pojYDw2hIB0/hqdefault.jpg"
-        },
-        {
-                "id": "U9GbKXqxr0E",
-                "title": "O Jaana Na Jaana - Part 1",
-                "artist": "The Kumar Sanu Official",
-                "duration": "4:24",
-                "art": "https://img.youtube.com/vi/U9GbKXqxr0E/hqdefault.jpg"
-        },
-        {
-                "id": "QaXKkLXzuo8",
-                "title": "Songs for you to vibe and dance . Hope you love it✨",
-                "artist": "lalalalal?",
-                "duration": "6:26",
-                "art": "https://img.youtube.com/vi/QaXKkLXzuo8/hqdefault.jpg"
-        },
-        {
-                "id": "3A_zsTXhL-A",
-                "title": "SANAM RE - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:31",
-                "art": "https://img.youtube.com/vi/3A_zsTXhL-A/hqdefault.jpg"
-        },
-        {
-                "id": "BP0FIvvgrAk",
-                "title": "Kabhi Shaam Dhale Female Cover",
-                "artist": "Deepshikhaa Raina",
-                "duration": "3:52",
-                "art": "https://img.youtube.com/vi/BP0FIvvgrAk/hqdefault.jpg"
-        },
-        {
-                "id": "bm-bl9GMe8Y",
-                "title": "\"𝙃𝙖𝙮𝙖𝙣𝙫𝙞 𝙗𝙖𝙣𝙜𝙚𝙧𝙨 𝙩𝙤 𝙫𝙞𝙗𝙚\"✨💅 @moonlit_.melodies7  (+timestamps)",
-                "artist": "Divyana",
-                "duration": "10:58",
-                "art": "https://img.youtube.com/vi/bm-bl9GMe8Y/hqdefault.jpg"
-        },
-        {
-                "id": "O4HWPsK00Vg",
-                "title": "DEEWANIYAT (Slowed + Reverbed) - Ek Deewane Ki Deewaniyat",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:33",
-                "art": "https://img.youtube.com/vi/O4HWPsK00Vg/hqdefault.jpg"
-        },
-        {
-                "id": "FulmpC4Powc",
-                "title": "Pehle Bhi Main (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:58",
-                "art": "https://img.youtube.com/vi/FulmpC4Powc/hqdefault.jpg"
-        },
-        {
-                "id": "meA7El2pZyc",
-                "title": "Pardesiya (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:08",
-                "art": "https://img.youtube.com/vi/meA7El2pZyc/hqdefault.jpg"
-        },
-        {
-                "id": "wkxV_w9Wjfo",
-                "title": "Hum Teri Mohabbat Me",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:29",
-                "art": "https://img.youtube.com/vi/wkxV_w9Wjfo/hqdefault.jpg"
-        },
-        {
-                "id": "wfjhj9WuF9w",
-                "title": "Dil Ibaadat (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "6:06",
-                "art": "https://img.youtube.com/vi/wfjhj9WuF9w/hqdefault.jpg"
-        },
-        {
-                "id": "dicmFa6CnS0",
-                "title": "Phir Aur Kya Chahiye (Lofi Version)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:01",
-                "art": "https://img.youtube.com/vi/dicmFa6CnS0/hqdefault.jpg"
-        },
-        {
-                "id": "7W_VHy69oXg",
-                "title": "SUN SAATHIYA - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:30",
-                "art": "https://img.youtube.com/vi/7W_VHy69oXg/hqdefault.jpg"
-        },
-        {
-                "id": "d8F8p49mTqw",
-                "title": "LABON KO - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:30",
-                "art": "https://img.youtube.com/vi/d8F8p49mTqw/hqdefault.jpg"
-        },
-        {
-                "id": "VFRH8YWo3aw",
-                "title": "Sab Tera (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:14",
-                "art": "https://img.youtube.com/vi/VFRH8YWo3aw/hqdefault.jpg"
-        },
-        {
-                "id": "9SouCif-y6I",
-                "title": "Ishq (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:22",
-                "art": "https://img.youtube.com/vi/9SouCif-y6I/hqdefault.jpg"
-        },
-        {
-                "id": "H0yLhDLJWuI",
-                "title": "A CHATPATI PLAYLIST FOR CHATPATE PEOPLE 💅😜 #playlist #song #collab",
-                "artist": "𐙚 𝒦𝒽𝓊𝓈𝒽𝒷𝓊𝓊",
-                "duration": "11:14",
-                "art": "https://img.youtube.com/vi/H0yLhDLJWuI/hqdefault.jpg"
-        },
-        {
-                "id": "kEWMgpKMq8k",
-                "title": "Kaash Tum Mujhse Ek Baar",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:36",
-                "art": "https://img.youtube.com/vi/kEWMgpKMq8k/hqdefault.jpg"
-        },
-        {
-                "id": "G_U31k6sLPE",
-                "title": "KABIRA (slowed and reverbed) - Yeh Jawaani Hai Deewani",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:24",
-                "art": "https://img.youtube.com/vi/G_U31k6sLPE/hqdefault.jpg"
-        },
-        {
-                "id": "EN_ydFzNoPk",
-                "title": "Ab Tere Dil Mein To",
-                "artist": "The Kumar Sanu Official",
-                "duration": "8:21",
-                "art": "https://img.youtube.com/vi/EN_ydFzNoPk/hqdefault.jpg"
-        },
-        {
-                "id": "MbWpPuuU1Vc",
-                "title": "Bole Chudiyan",
-                "artist": "Jatin Lalit",
-                "duration": "6:48",
-                "art": "https://img.youtube.com/vi/MbWpPuuU1Vc/hqdefault.jpg"
-        },
-        {
-                "id": "-3QNQj_jmts",
-                "title": "POV: desi songs which will make you dance at 3am! (hindi playlist)✨ #100k #fyp #foryou #recommended",
-                "artist": "_.𝐞𝐝𝐢𝐭𝐢𝐧𝐠._.𝐞𝐫𝐚._",
-                "duration": "9:07",
-                "art": "https://img.youtube.com/vi/-3QNQj_jmts/hqdefault.jpg"
-        },
-        {
-                "id": "d4jnoSCmI2g",
-                "title": "TU HI HAQEEQAT- (Slowed and Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:45",
-                "art": "https://img.youtube.com/vi/d4jnoSCmI2g/hqdefault.jpg"
-        },
-        {
-                "id": "3RlPd2-SNy4",
-                "title": "Ve Kamleya [Lofi Version]",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:21",
-                "art": "https://img.youtube.com/vi/3RlPd2-SNy4/hqdefault.jpg"
-        },
-        {
-                "id": "ajYgbQWpBUU",
-                "title": "Mujhse Shaadi Karogi",
-                "artist": "Sonu Nigam",
-                "duration": "5:26",
-                "art": "https://img.youtube.com/vi/ajYgbQWpBUU/hqdefault.jpg"
-        },
-        {
-                "id": "6pb1gw2xSD8",
-                "title": "Baazigar O Baazigar",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:29",
-                "art": "https://img.youtube.com/vi/6pb1gw2xSD8/hqdefault.jpg"
-        },
-        {
-                "id": "jLiHF9aZmow",
-                "title": "HUMDARD - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:35",
-                "art": "https://img.youtube.com/vi/jLiHF9aZmow/hqdefault.jpg"
-        },
-        {
-                "id": "ER7RoDTT2_4",
-                "title": "Barsaat Ke Mausam Mein",
-                "artist": "The Kumar Sanu Official",
-                "duration": "8:45",
-                "art": "https://img.youtube.com/vi/ER7RoDTT2_4/hqdefault.jpg"
-        },
-        {
-                "id": "iTok4C0S7vk",
-                "title": "Aankhein Khuli",
-                "artist": "Lata Mangeshkar",
-                "duration": "7:02",
-                "art": "https://img.youtube.com/vi/iTok4C0S7vk/hqdefault.jpg"
-        },
-        {
-                "id": "ZsNp0WDMIv8",
-                "title": "JEENA JEENA - Slowed and Reverb",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:46",
-                "art": "https://img.youtube.com/vi/ZsNp0WDMIv8/hqdefault.jpg"
-        },
-        {
-                "id": "65MCSWbMN8c",
-                "title": "Ye Kaali Kaali Aankhen",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:18",
-                "art": "https://img.youtube.com/vi/65MCSWbMN8c/hqdefault.jpg"
-        },
-        {
-                "id": "FGUzNoJok_g",
-                "title": "Dekha Hai Pehli Baar",
-                "artist": "Alka Yagnik",
-                "duration": "6:13",
-                "art": "https://img.youtube.com/vi/FGUzNoJok_g/hqdefault.jpg"
-        },
-        {
-                "id": "W8We0tKTmQ0",
-                "title": "Tum Mile [Slowed+Reverb] - Javed Ali",
-                "artist": "CDA Records",
-                "duration": "5:44",
-                "art": "https://img.youtube.com/vi/W8We0tKTmQ0/hqdefault.jpg"
-        },
-        {
-                "id": "OPGzbJ0Mb1U",
-                "title": "GALLIYAN - 8D AUDIO (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:40",
-                "art": "https://img.youtube.com/vi/OPGzbJ0Mb1U/hqdefault.jpg"
-        },
-        {
-                "id": "t-NST0awBw8",
-                "title": "Saibo - (Lofi Flip) VIBIE",
-                "artist": "VIBIE",
-                "duration": "2:30",
-                "art": "https://img.youtube.com/vi/t-NST0awBw8/hqdefault.jpg"
-        },
-        {
-                "id": "KosXXrhEmgA",
-                "title": "AADAT - (Slowed and Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:57",
-                "art": "https://img.youtube.com/vi/KosXXrhEmgA/hqdefault.jpg"
-        },
-        {
-                "id": "3zciXYKHpU0",
-                "title": "Jaane Woh Kaise -(Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:24",
-                "art": "https://img.youtube.com/vi/3zciXYKHpU0/hqdefault.jpg"
-        },
-        {
-                "id": "XEggdtDp_4c",
-                "title": "Bahut Pyar Karte Hai (Male Version)",
-                "artist": "SP Balasubrahmanyam (SpBaluofficial)",
-                "duration": "3:05",
-                "art": "https://img.youtube.com/vi/XEggdtDp_4c/hqdefault.jpg"
-        },
-        {
-                "id": "wjSOLIRTV8A",
-                "title": "Bargad - (Slowed & Reverbed) Arpit Bala ft. Sufr",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:38",
-                "art": "https://img.youtube.com/vi/wjSOLIRTV8A/hqdefault.jpg"
-        },
-        {
-                "id": "RoXAvSlDcs4",
-                "title": "Woh Lamhe Woh Baatein (Lofi Version)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:49",
-                "art": "https://img.youtube.com/vi/RoXAvSlDcs4/hqdefault.jpg"
-        },
-        {
-                "id": "tu7gxUfeRKc",
-                "title": "College Ki Ladkiyon",
-                "artist": "Udit Narayan",
-                "duration": "5:49",
-                "art": "https://img.youtube.com/vi/tu7gxUfeRKc/hqdefault.jpg"
-        },
-        {
-                "id": "-6ylL4rXwPg",
-                "title": "Bas Ek Dhadak (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:37",
-                "art": "https://img.youtube.com/vi/-6ylL4rXwPg/hqdefault.jpg"
-        },
-        {
-                "id": "9SNVIyeiWzo",
-                "title": "EK MULAQAT - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:48",
-                "art": "https://img.youtube.com/vi/9SNVIyeiWzo/hqdefault.jpg"
-        },
-        {
-                "id": "L7bsl-lL5zY",
-                "title": "Atif Aslam-x-Arijit Singh [Lofi Remix]- Rain Remix",
-                "artist": "Acoustic Lofi",
-                "duration": "42:13",
-                "art": "https://img.youtube.com/vi/L7bsl-lL5zY/hqdefault.jpg"
-        },
-        {
-                "id": "YAepjGdtFNM",
-                "title": "Tera Hone Laga Hoon- (slowed and reverbed)/Audio Edit",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:34",
-                "art": "https://img.youtube.com/vi/YAepjGdtFNM/hqdefault.jpg"
-        },
-        {
-                "id": "Hfq-HlG0jfU",
-                "title": "Kahin Se Tu Aaja",
-                "artist": "Vicky Singh",
-                "duration": "3:45",
-                "art": "https://img.youtube.com/vi/Hfq-HlG0jfU/hqdefault.jpg"
-        },
-        {
-                "id": "dQjF4GeeoKM",
-                "title": "Teri Mohabbat Ne Dil",
-                "artist": "Alka Yagnik",
-                "duration": "6:16",
-                "art": "https://img.youtube.com/vi/dQjF4GeeoKM/hqdefault.jpg"
-        },
-        {
-                "id": "PuxWVAL4E1g",
-                "title": "Waareya (Slowed and Reverb) - Javed-Mohsin, Palak Muchhal, Vibhor Parashar",
-                "artist": "Sukoonistics",
-                "duration": "5:24",
-                "art": "https://img.youtube.com/vi/PuxWVAL4E1g/hqdefault.jpg"
-        },
-        {
-                "id": "mUmRgBzzpyg",
-                "title": "Humko Sirf Tumse",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:49",
-                "art": "https://img.youtube.com/vi/mUmRgBzzpyg/hqdefault.jpg"
-        },
-        {
-                "id": "8dklFpUa9jU",
-                "title": "Tu Meri Zindagi Hai",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "4:43",
-                "art": "https://img.youtube.com/vi/8dklFpUa9jU/hqdefault.jpg"
-        },
-        {
-                "id": "vORSmGqWJ54",
-                "title": "AFSOS - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:12",
-                "art": "https://img.youtube.com/vi/vORSmGqWJ54/hqdefault.jpg"
-        },
-        {
-                "id": "zdvqXqhkzWE",
-                "title": "Waalian  (Slowed+Reverb) - Harnoor",
-                "artist": "Srk Lofi World",
-                "duration": "5:02",
-                "art": "https://img.youtube.com/vi/zdvqXqhkzWE/hqdefault.jpg"
-        },
-        {
-                "id": "UatTUtmTU9w",
-                "title": "Humdard [Slowed+Reverb]",
-                "artist": "fact nation",
-                "duration": "4:29",
-                "art": "https://img.youtube.com/vi/UatTUtmTU9w/hqdefault.jpg"
-        },
-        {
-                "id": "LxkpvK3J46E",
-                "title": "Mera Chand Mujhe Aaya Hai Nazar",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:51",
-                "art": "https://img.youtube.com/vi/LxkpvK3J46E/hqdefault.jpg"
-        },
-        {
-                "id": "uHbKAnli9DE",
-                "title": "Dil Sambhal Jaa Zara",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:43",
-                "art": "https://img.youtube.com/vi/uHbKAnli9DE/hqdefault.jpg"
-        },
-        {
-                "id": "JQ922u24pH8",
-                "title": "DESI PUNJABI PLAYLIST THAT GETS YOUR VIBE 😌🎧",
-                "artist": "Your April",
-                "duration": "11:21",
-                "art": "https://img.youtube.com/vi/JQ922u24pH8/hqdefault.jpg"
-        },
-        {
-                "id": "xIxtXS5L8oc",
-                "title": "Tum Mile (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:40",
-                "art": "https://img.youtube.com/vi/xIxtXS5L8oc/hqdefault.jpg"
-        },
-        {
-                "id": "oHbKvujkqms",
-                "title": "Sanam Teri Kasam - (Slowed and Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:04",
-                "art": "https://img.youtube.com/vi/oHbKvujkqms/hqdefault.jpg"
-        },
-        {
-                "id": "lvZKr1eXRJc",
-                "title": "Sang Hoon Tere - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:39",
-                "art": "https://img.youtube.com/vi/lvZKr1eXRJc/hqdefault.jpg"
-        },
-        {
-                "id": "8z68e4tuxik",
-                "title": "Dil Mera Tod Diya",
-                "artist": "Alka Yagnik",
-                "duration": "5:08",
-                "art": "https://img.youtube.com/vi/8z68e4tuxik/hqdefault.jpg"
-        },
-        {
-                "id": "fRnhuJ8gR20",
-                "title": "Chahun Tujhe",
-                "artist": "Vinod Rathod",
-                "duration": "6:10",
-                "art": "https://img.youtube.com/vi/fRnhuJ8gR20/hqdefault.jpg"
-        },
-        {
-                "id": "jPjaPWnVxxE",
-                "title": "Suniyan Suniyan [Official Audio] - (Lofi Remix)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:36",
-                "art": "https://img.youtube.com/vi/jPjaPWnVxxE/hqdefault.jpg"
-        },
-        {
-                "id": "0OToWDsqU04",
-                "title": "Dafli Wale Dafli Baja",
-                "artist": "Lata Mangeshkar",
-                "duration": "5:16",
-                "art": "https://img.youtube.com/vi/0OToWDsqU04/hqdefault.jpg"
-        },
-        {
-                "id": "5MIGQBpVeqs",
-                "title": "Mujhse Mohabbat Ka",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:12",
-                "art": "https://img.youtube.com/vi/5MIGQBpVeqs/hqdefault.jpg"
-        },
-        {
-                "id": "3FhXwFGVaDE",
-                "title": "💋 A Chatpati Playlist Only For Chatpata People 😋✨",
-                "artist": "Dome Dispatches",
-                "duration": "7:30",
-                "art": "https://img.youtube.com/vi/3FhXwFGVaDE/hqdefault.jpg"
-        },
-        {
-                "id": "tq8ERAFkwZs",
-                "title": "{(FREE) Juice world type beat \"999\"",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:01",
-                "art": "https://img.youtube.com/vi/tq8ERAFkwZs/hqdefault.jpg"
-        },
-        {
-                "id": "bNh5xAx3OxU",
-                "title": "HUSN x JO TUM MERE HO [REMIX]",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:25",
-                "art": "https://img.youtube.com/vi/bNh5xAx3OxU/hqdefault.jpg"
-        },
-        {
-                "id": "QaM_KMzSo5Q",
-                "title": "Tumhari Nazron Mein Humne Dekha",
-                "artist": "Asha Bhosle",
-                "duration": "5:03",
-                "art": "https://img.youtube.com/vi/QaM_KMzSo5Q/hqdefault.jpg"
-        },
-        {
-                "id": "lrUgzcgbbro",
-                "title": "𝑱𝒊𝒕𝒏𝒊_𝑫𝒂𝒇𝒂( 𝒔𝒍𝒐𝒘𝒆𝒅+𝒓𝒆𝒗𝒆𝒓𝒃𝒆𝒅 ) -𝒀𝒂𝒔𝒔𝒆𝒓 𝑫𝒆𝒔𝒂𝒊 //𝒍𝒐𝒇𝒊 𝒔𝒐𝒏𝒈 #trending #love",
-                "artist": "𝐀𝐃𝐈𝐗𝐍07",
-                "duration": "3:45",
-                "art": "https://img.youtube.com/vi/lrUgzcgbbro/hqdefault.jpg"
-        },
-        {
-                "id": "bYIRwyNsjBg",
-                "title": "Ye tune kya kiya - (slowed and reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:34",
-                "art": "https://img.youtube.com/vi/bYIRwyNsjBg/hqdefault.jpg"
-        },
-        {
-                "id": "AvNyfTsiqBg",
-                "title": "OODHNI",
-                "artist": "Udit Narayan",
-                "duration": "6:50",
-                "art": "https://img.youtube.com/vi/AvNyfTsiqBg/hqdefault.jpg"
-        },
-        {
-                "id": "lNzyH6gtc8U",
-                "title": "Ranjhana - Kalam Ink Ft. Harjas (Drums Version)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:18",
-                "art": "https://img.youtube.com/vi/lNzyH6gtc8U/hqdefault.jpg"
-        },
-        {
-                "id": "w5Tyh0vEI0o",
-                "title": "Tujh Mein Rab Dikhta Hai - Lofi (Slowed+Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:00",
-                "art": "https://img.youtube.com/vi/w5Tyh0vEI0o/hqdefault.jpg"
-        },
-        {
                 "id": "PY0mAlNXcyY",
                 "title": "Mouka Milenga to Hum",
                 "artist": "Udit Narayan",
                 "duration": "5:33",
                 "art": "https://img.youtube.com/vi/PY0mAlNXcyY/hqdefault.jpg"
-        },
-        {
-                "id": "1uU6y-PR1eA",
-                "title": "RAABTA - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:09",
-                "art": "https://img.youtube.com/vi/1uU6y-PR1eA/hqdefault.jpg"
-        },
-        {
-                "id": "CL-w9aJ3Uhw",
-                "title": "Dil Hai Tumhaara",
-                "artist": "Nadeem Shravan",
-                "duration": "6:41",
-                "art": "https://img.youtube.com/vi/CL-w9aJ3Uhw/hqdefault.jpg"
-        },
-        {
-                "id": "JjQnfdjRF3k",
-                "title": "MAAND - Slowed & Reverbed (Aesthetic Edit)",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:21",
-                "art": "https://img.youtube.com/vi/JjQnfdjRF3k/hqdefault.jpg"
-        },
-        {
-                "id": "YhEdDnxHZt4",
-                "title": "Jo Bhi Kasmein",
-                "artist": "Alka Yagnik",
-                "duration": "5:40",
-                "art": "https://img.youtube.com/vi/YhEdDnxHZt4/hqdefault.jpg"
-        },
-        {
-                "id": "Bx_Ie97I3zg",
-                "title": "Chalte Chalte",
-                "artist": "Udbhav",
-                "duration": "7:38",
-                "art": "https://img.youtube.com/vi/Bx_Ie97I3zg/hqdefault.jpg"
-        },
-        {
-                "id": "6001A1B_fIo",
-                "title": "Dil Ka Rishta (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:37",
-                "art": "https://img.youtube.com/vi/6001A1B_fIo/hqdefault.jpg"
-        },
-        {
-                "id": "jJ9bTwwSGRs",
-                "title": "Mann Mera – (Slowed and Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:22",
-                "art": "https://img.youtube.com/vi/jJ9bTwwSGRs/hqdefault.jpg"
-        },
-        {
-                "id": "l41afUOGS0I",
-                "title": "Mile Tum Se Bichhad Ke Hum",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:01",
-                "art": "https://img.youtube.com/vi/l41afUOGS0I/hqdefault.jpg"
-        },
-        {
-                "id": "rwLMVAiUWDs",
-                "title": "NO LOVE – (Slowed and Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:00",
-                "art": "https://img.youtube.com/vi/rwLMVAiUWDs/hqdefault.jpg"
-        },
-        {
-                "id": "xV_QKMRpRwk",
-                "title": "Pyaari Lage (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:06",
-                "art": "https://img.youtube.com/vi/xV_QKMRpRwk/hqdefault.jpg"
-        },
-        {
-                "id": "h3sv2ag4HNQ",
-                "title": "Midnight vibes #trendingsong #astheticsong #song#lofisong #mashup",
-                "artist": "A3's Asthetic",
-                "duration": "23:39",
-                "art": "https://img.youtube.com/vi/h3sv2ag4HNQ/hqdefault.jpg"
-        },
-        {
-                "id": "wjTSry-Ouhg",
-                "title": "Dekhne Walon Ne",
-                "artist": "Various Artists",
-                "duration": "6:13",
-                "art": "https://img.youtube.com/vi/wjTSry-Ouhg/hqdefault.jpg"
-        },
-        {
-                "id": "E2VQbiq6QbM",
-                "title": "Let Her Go x Apa Fer Milaange (Lofi Mashup)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:18",
-                "art": "https://img.youtube.com/vi/E2VQbiq6QbM/hqdefault.jpg"
-        },
-        {
-                "id": "OjRSyrkN2F8",
-                "title": "Abhi Na Jao Chhod Kar - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:31",
-                "art": "https://img.youtube.com/vi/OjRSyrkN2F8/hqdefault.jpg"
-        },
-        {
-                "id": "helmP-W5Ous",
-                "title": "Soch Na Sake (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:15",
-                "art": "https://img.youtube.com/vi/helmP-W5Ous/hqdefault.jpg"
-        },
-        {
-                "id": "1P7LZP22lI0",
-                "title": "Meri Zindagi Hai Tu (Slowed + Reverb)RD lofi music",
-                "artist": "RD LOFI MUSIC",
-                "duration": "4:52",
-                "art": "https://img.youtube.com/vi/1P7LZP22lI0/hqdefault.jpg"
-        },
-        {
-                "id": "8di60r36hJU",
-                "title": "✨a peaceful playlist while your study 🌸#playlist#bollywoodsong",
-                "artist": "Boba Waves",
-                "duration": "11:02",
-                "art": "https://img.youtube.com/vi/8di60r36hJU/hqdefault.jpg"
-        },
-        {
-                "id": "JmWtFxMxink",
-                "title": "Sajde",
-                "artist": "YRF",
-                "duration": "3:48",
-                "art": "https://img.youtube.com/vi/JmWtFxMxink/hqdefault.jpg"
-        },
-        {
-                "id": "xPJO10DF4iY",
-                "title": "Naah Lofi Version - Jass Manak",
-                "artist": "Geet MP3",
-                "duration": "3:25",
-                "art": "https://img.youtube.com/vi/xPJO10DF4iY/hqdefault.jpg"
-        },
-        {
-                "id": "OueTzPqg4ZU",
-                "title": "Finding Her - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:21",
-                "art": "https://img.youtube.com/vi/OueTzPqg4ZU/hqdefault.jpg"
-        },
-        {
-                "id": "HNdauINck9s",
-                "title": "𝐀𝐋𝐋 𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆 𝐇𝐈𝐍𝐃𝐈 𝐒𝐎𝐍𝐆𝐒 𝟐𝟎𝟐𝟔",
-                "artist": "cozi_music",
-                "duration": "15:09",
-                "art": "https://img.youtube.com/vi/HNdauINck9s/hqdefault.jpg"
-        },
-        {
-                "id": "qPxuYaYnAyo",
-                "title": "ISHQ SUFIYANA - (Slowed and Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:13",
-                "art": "https://img.youtube.com/vi/qPxuYaYnAyo/hqdefault.jpg"
-        },
-        {
-                "id": "vrvR3iViJGU",
-                "title": "Hai Mera Dil",
-                "artist": "Udit Narayan",
-                "duration": "4:11",
-                "art": "https://img.youtube.com/vi/vrvR3iViJGU/hqdefault.jpg"
-        },
-        {
-                "id": "SR5xaw1upVY",
-                "title": "Tere Bina (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:41",
-                "art": "https://img.youtube.com/vi/SR5xaw1upVY/hqdefault.jpg"
-        },
-        {
-                "id": "7SlNjfPskbQ",
-                "title": "Dil Ko Karar Aaya Lo-Fi - Naresh Narayan",
-                "artist": "Naresh Narayan",
-                "duration": "4:34",
-                "art": "https://img.youtube.com/vi/7SlNjfPskbQ/hqdefault.jpg"
-        },
-        {
-                "id": "39_gAExp2OA",
-                "title": "Ishq Hai (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:03",
-                "art": "https://img.youtube.com/vi/39_gAExp2OA/hqdefault.jpg"
-        },
-        {
-                "id": "yEAnn5QL2qk",
-                "title": "Majboor (Slowed + Reverb) – Sheheryar Rehan x Zoha Waseem",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:27",
-                "art": "https://img.youtube.com/vi/yEAnn5QL2qk/hqdefault.jpg"
-        },
-        {
-                "id": "a5DDSlBaHFY",
-                "title": "AGAR TUM SAATH HO",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:26",
-                "art": "https://img.youtube.com/vi/a5DDSlBaHFY/hqdefault.jpg"
-        },
-        {
-                "id": "98MGT9JStKk",
-                "title": "Tu Pyar Hai Kisi Aur Ka",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "6:49",
-                "art": "https://img.youtube.com/vi/98MGT9JStKk/hqdefault.jpg"
-        },
-        {
-                "id": "bovpxyXpY5o",
-                "title": "Chalte Chalte",
-                "artist": "Abhijeet Unplugged",
-                "duration": "5:26",
-                "art": "https://img.youtube.com/vi/bovpxyXpY5o/hqdefault.jpg"
-        },
-        {
-                "id": "p1eBtgw_U5U",
-                "title": "TU CHAHIYE -(Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:43",
-                "art": "https://img.youtube.com/vi/p1eBtgw_U5U/hqdefault.jpg"
-        },
-        {
-                "id": "u4m-EPPXqM0",
-                "title": "Ajnabi Mujhko Itna Bata",
-                "artist": "Jatin Lalit",
-                "duration": "6:14",
-                "art": "https://img.youtube.com/vi/u4m-EPPXqM0/hqdefault.jpg"
-        },
-        {
-                "id": "KS_HMMPrlXM",
-                "title": "Dekha Tujhe Toh",
-                "artist": "The Kumar Sanu Official",
-                "duration": "7:32",
-                "art": "https://img.youtube.com/vi/KS_HMMPrlXM/hqdefault.jpg"
-        },
-        {
-                "id": "eC5riDNidOg",
-                "title": "Sochenge Tumhe Pyar",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:03",
-                "art": "https://img.youtube.com/vi/eC5riDNidOg/hqdefault.jpg"
-        },
-        {
-                "id": "TgQQky-AXI8",
-                "title": "Bhojpuri Songs 🫶🏻 That'll Make You Dance At 3am 🎀💓",
-                "artist": "𝕾𝕽 𝗩𝗶𝗯𝗿𝗼𝗻 ᴹᶦˣ •  3M views",
-                "duration": "15:35",
-                "art": "https://img.youtube.com/vi/TgQQky-AXI8/hqdefault.jpg"
-        },
-        {
-                "id": "t77Wo3NVy7E",
-                "title": "Zaroori Tha - Slowed & Reverb",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:57",
-                "art": "https://img.youtube.com/vi/t77Wo3NVy7E/hqdefault.jpg"
-        },
-        {
-                "id": "eUBi_0f7P8I",
-                "title": "Abeer Arora-Kangna tera nee (slowed + reverb)",
-                "artist": "Pradabae",
-                "duration": "4:06",
-                "art": "https://img.youtube.com/vi/eUBi_0f7P8I/hqdefault.jpg"
-        },
-        {
-                "id": "No5J2SXEEJc",
-                "title": "ADMIRING YOU - (Slowed + Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:08",
-                "art": "https://img.youtube.com/vi/No5J2SXEEJc/hqdefault.jpg"
-        },
-        {
-                "id": "ooNs2kJ-loM",
-                "title": "Sun Raha Hai (Slowed + Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:57",
-                "art": "https://img.youtube.com/vi/ooNs2kJ-loM/hqdefault.jpg"
-        },
-        {
-                "id": "SAae0N930jI",
-                "title": "O Bedardeya (Lofi Remake)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:06",
-                "art": "https://img.youtube.com/vi/SAae0N930jI/hqdefault.jpg"
-        },
-        {
-                "id": "oc38CxMaoRw",
-                "title": "Teri Chunnariya",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:57",
-                "art": "https://img.youtube.com/vi/oc38CxMaoRw/hqdefault.jpg"
-        },
-        {
-                "id": "gE1iFz7IUrA",
-                "title": "𝐂𝐡𝐚𝐭𝐩𝐚𝐭𝐢 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐜𝐮𝐳 𝐑𝐨𝐧𝐚 𝐝𝐡𝐨𝐧𝐚 𝐢𝐬 𝐰𝐚𝐬𝐭𝐞 𝐨𝐟 𝐭𝐢𝐦𝐞🥂💅🏻",
-                "artist": "Divine Era",
-                "duration": "23:00",
-                "art": "https://img.youtube.com/vi/gE1iFz7IUrA/hqdefault.jpg"
-        },
-        {
-                "id": "HOAF8vcxXe4",
-                "title": "Paas Woh Aane Lage",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:13",
-                "art": "https://img.youtube.com/vi/HOAF8vcxXe4/hqdefault.jpg"
-        },
-        {
-                "id": "n5zWC5zptwQ",
-                "title": "Jaana Ve (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "6:04",
-                "art": "https://img.youtube.com/vi/n5zWC5zptwQ/hqdefault.jpg"
-        },
-        {
-                "id": "72tvFIR4qOs",
-                "title": "Yaadon Ki Baaraat With Lyrics",
-                "artist": "Saregama Music",
-                "duration": "4:38",
-                "art": "https://img.youtube.com/vi/72tvFIR4qOs/hqdefault.jpg"
-        },
-        {
-                "id": "XuA0BvYksyI",
-                "title": "PYAR KIYA TO NIBHANA",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "5:07",
-                "art": "https://img.youtube.com/vi/XuA0BvYksyI/hqdefault.jpg"
-        },
-        {
-                "id": "I-0NjpHJ7aY",
-                "title": "Admiring You [REMIX]",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:59",
-                "art": "https://img.youtube.com/vi/I-0NjpHJ7aY/hqdefault.jpg"
-        },
-        {
-                "id": "b9j_rGdKKXk",
-                "title": "Hum Teri Mohabbat Mein",
-                "artist": "Baayo Lifestyle",
-                "duration": "5:38",
-                "art": "https://img.youtube.com/vi/b9j_rGdKKXk/hqdefault.jpg"
-        },
-        {
-                "id": "DU4eZrGg6Yg",
-                "title": "PHIR KABHI - Arijit Singh (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:37",
-                "art": "https://img.youtube.com/vi/DU4eZrGg6Yg/hqdefault.jpg"
-        },
-        {
-                "id": "lhKllvkEW5U",
-                "title": "Bairan -  (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:37",
-                "art": "https://img.youtube.com/vi/lhKllvkEW5U/hqdefault.jpg"
-        },
-        {
-                "id": "H0z31jWUYr4",
-                "title": "Aisi Deewangi",
-                "artist": "Alka Yagnik",
-                "duration": "6:55",
-                "art": "https://img.youtube.com/vi/H0z31jWUYr4/hqdefault.jpg"
-        },
-        {
-                "id": "idCpl6LfnKo",
-                "title": "A playlist of nusrat fateh ali khan all popular qawaali's 💝💘",
-                "artist": "preet_slaylist",
-                "duration": "9:15",
-                "art": "https://img.youtube.com/vi/idCpl6LfnKo/hqdefault.jpg"
-        },
-        {
-                "id": "Q3jLrlAIWSU",
-                "title": "𝘛𝘩𝘦 𝘔𝘰𝘴𝘵 𝘛𝘳𝘦𝘯𝘥𝘪𝘯𝘨 𝘚𝘰𝘯𝘨𝘴 𝘖𝘧 2026 (+ 𝘵𝘪𝘮𝘦𝘴𝘵𝘢𝘮𝘱𝘴) 🎀🌷✨⋆. 𐙚 ˚",
-                "artist": "𝙏𝙪𝙭𝙡𝙞𝙥𝙨 🌷",
-                "duration": "33:37",
-                "art": "https://img.youtube.com/vi/Q3jLrlAIWSU/hqdefault.jpg"
-        },
-        {
-                "id": "r_pR3LL3O8E",
-                "title": "Samjho Na Lofi Mashup Song [Slowed+reverb]",
-                "artist": "Aniket Bankar35",
-                "duration": "7:57",
-                "art": "https://img.youtube.com/vi/r_pR3LL3O8E/hqdefault.jpg"
-        },
-        {
-                "id": "IKlgbfcU5e0",
-                "title": "Desi song playlist 💗PT.1",
-                "artist": "Melophile Vibes🎵",
-                "duration": "6:32",
-                "art": "https://img.youtube.com/vi/IKlgbfcU5e0/hqdefault.jpg"
-        },
-        {
-                "id": "-OaetackX94",
-                "title": "Main Toh Raste Se Ja Raha Tha",
-                "artist": "Anand-Milind",
-                "duration": "5:19",
-                "art": "https://img.youtube.com/vi/-OaetackX94/hqdefault.jpg"
-        },
-        {
-                "id": "NUkD8OIuZPk",
-                "title": "CHAL GHAR CHALE - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:05",
-                "art": "https://img.youtube.com/vi/NUkD8OIuZPk/hqdefault.jpg"
-        },
-        {
-                "id": "xfB3q_KZxy8",
-                "title": "Kaun Tujhe - Palak Muchhal",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:34",
-                "art": "https://img.youtube.com/vi/xfB3q_KZxy8/hqdefault.jpg"
-        },
-        {
-                "id": "tgSwOZUL6SY",
-                "title": "Adayein Bhi Hain Mohabbat Bhi Hai",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "5:25",
-                "art": "https://img.youtube.com/vi/tgSwOZUL6SY/hqdefault.jpg"
-        },
-        {
-                "id": "72Zr-n6W2Mo",
-                "title": "This playlist will definitely give you vibe..🫠✨",
-                "artist": "☆Neon_haZe☆ﾟ⁠.⁠*⁠･⁠｡ﾟ",
-                "duration": "5:26",
-                "art": "https://img.youtube.com/vi/72Zr-n6W2Mo/hqdefault.jpg"
-        },
-        {
-                "id": "q2AjA6gCjeE",
-                "title": "Raanjhana [Lofi Remix]",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:15",
-                "art": "https://img.youtube.com/vi/q2AjA6gCjeE/hqdefault.jpg"
-        },
-        {
-                "id": "T35uru7JCIo",
-                "title": "Akhiyaan",
-                "artist": "Mitraz",
-                "duration": "3:12",
-                "art": "https://img.youtube.com/vi/T35uru7JCIo/hqdefault.jpg"
-        },
-        {
-                "id": "pH7BFtW7jRI",
-                "title": "Phool Maangu Na Bahaar Maangu",
-                "artist": "Alka Yagnik",
-                "duration": "5:21",
-                "art": "https://img.youtube.com/vi/pH7BFtW7jRI/hqdefault.jpg"
-        },
-        {
-                "id": "yoX3KQqh_4o",
-                "title": "Tum Tak - (Lofi Remix)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:21",
-                "art": "https://img.youtube.com/vi/yoX3KQqh_4o/hqdefault.jpg"
-        },
-        {
-                "id": "jsCh0p9-rQ4",
-                "title": "JHOL - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:25",
-                "art": "https://img.youtube.com/vi/jsCh0p9-rQ4/hqdefault.jpg"
-        },
-        {
-                "id": "aDlv2UX1lA8",
-                "title": "Mein Zinda Hoon Lekin Kahan Zindagi Hai - (Lofi Remake)",
-                "artist": "Indian Streamr",
-                "duration": "3:51",
-                "art": "https://img.youtube.com/vi/aDlv2UX1lA8/hqdefault.jpg"
-        },
-        {
-                "id": "lnGMsgrhspI",
-                "title": "O Lal Dupatte Wali",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:50",
-                "art": "https://img.youtube.com/vi/lnGMsgrhspI/hqdefault.jpg"
-        },
-        {
-                "id": "u4M2eNXmhdY",
-                "title": "Tera Hi Naam Hoga",
-                "artist": "Alka Yagnik",
-                "duration": "5:14",
-                "art": "https://img.youtube.com/vi/u4M2eNXmhdY/hqdefault.jpg"
-        },
-        {
-                "id": "PfcwlfCm7fc",
-                "title": "Falak Tak",
-                "artist": "Vishal - Shekhar",
-                "duration": "5:56",
-                "art": "https://img.youtube.com/vi/PfcwlfCm7fc/hqdefault.jpg"
-        },
-        {
-                "id": "5tQ0XlggnXk",
-                "title": "RANJHAN - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:03",
-                "art": "https://img.youtube.com/vi/5tQ0XlggnXk/hqdefault.jpg"
-        },
-        {
-                "id": "Qcdk7FvmDgo",
-                "title": "HAR DIL JO PYAR KAREGA",
-                "artist": "Udit Narayan",
-                "duration": "6:02",
-                "art": "https://img.youtube.com/vi/Qcdk7FvmDgo/hqdefault.jpg"
-        },
-        {
-                "id": "t06UiXd5WdQ",
-                "title": "POV:\"𝐇𝐚𝐫𝐲𝐚𝐧𝐯𝐢 𝐁𝐚𝐧𝐠𝐞𝐫𝐬 𝐭𝐨 𝐕𝐢𝐛𝐞\"💅",
-                "artist": "𝓛𝓲𝓵𝔂:)",
-                "duration": "7:39",
-                "art": "https://img.youtube.com/vi/t06UiXd5WdQ/hqdefault.jpg"
-        },
-        {
-                "id": "4wy0HfJnSLE",
-                "title": "Butterfly (Slowed and Reverb)",
-                "artist": "Various Artists",
-                "duration": "2:58",
-                "art": "https://img.youtube.com/vi/4wy0HfJnSLE/hqdefault.jpg"
-        },
-        {
-                "id": "leZIk4Q3L6I",
-                "title": "Yeh Dua Hai Meri",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:16",
-                "art": "https://img.youtube.com/vi/leZIk4Q3L6I/hqdefault.jpg"
-        },
-        {
-                "id": "IBPsBCgIAKY",
-                "title": "Saiyaara - Reprise Female(Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:45",
-                "art": "https://img.youtube.com/vi/IBPsBCgIAKY/hqdefault.jpg"
-        },
-        {
-                "id": "52MTK4354ck",
-                "title": "Kisi Din Banoongi Main",
-                "artist": "Alka Yagnik",
-                "duration": "7:18",
-                "art": "https://img.youtube.com/vi/52MTK4354ck/hqdefault.jpg"
-        },
-        {
-                "id": "8hy7pg8wB-c",
-                "title": "Kitna Haseen Chehra",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:54",
-                "art": "https://img.youtube.com/vi/8hy7pg8wB-c/hqdefault.jpg"
-        },
-        {
-                "id": "CxeZNRr88HA",
-                "title": "Jaam Woh Hai Jo Bhar Ke",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:08",
-                "art": "https://img.youtube.com/vi/CxeZNRr88HA/hqdefault.jpg"
-        },
-        {
-                "id": "MzhsLzOTZNA",
-                "title": "MAIN HOON NA",
-                "artist": "Sonu Nigam",
-                "duration": "6:01",
-                "art": "https://img.youtube.com/vi/MzhsLzOTZNA/hqdefault.jpg"
-        },
-        {
-                "id": "qfeXr3AiV5s",
-                "title": "Saiyaara - Reprise Female (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:45",
-                "art": "https://img.youtube.com/vi/qfeXr3AiV5s/hqdefault.jpg"
-        },
-        {
-                "id": "XDz2-7DoOgc",
-                "title": "HUSN - Anuv Jain (Lofi Remix)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:26",
-                "art": "https://img.youtube.com/vi/XDz2-7DoOgc/hqdefault.jpg"
-        },
-        {
-                "id": "pWSOpNJFiGc",
-                "title": "Marjaana (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:54",
-                "art": "https://img.youtube.com/vi/pWSOpNJFiGc/hqdefault.jpg"
-        },
-        {
-                "id": "Fq_TdLdFCrM",
-                "title": "TERE LIYE - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:29",
-                "art": "https://img.youtube.com/vi/Fq_TdLdFCrM/hqdefault.jpg"
-        },
-        {
-                "id": "QjqKXFGM3eI",
-                "title": "Chori Chori Dil Tera (HD) - Kumar Sanu Songs - Romantic Songs - 90's Love Song",
-                "artist": "Shemaroo Filmi Gaane",
-                "duration": "6:53",
-                "art": "https://img.youtube.com/vi/QjqKXFGM3eI/hqdefault.jpg"
-        },
-        {
-                "id": "u57uOq4KRP4",
-                "title": "DEKHA HI NAHI - 8D AUDIO (Slowed + Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:26",
-                "art": "https://img.youtube.com/vi/u57uOq4KRP4/hqdefault.jpg"
-        },
-        {
-                "id": "QVrv7JTBptA",
-                "title": "Ghoongte Mein Chanda",
-                "artist": "Udit Narayan",
-                "duration": "6:12",
-                "art": "https://img.youtube.com/vi/QVrv7JTBptA/hqdefault.jpg"
-        },
-        {
-                "id": "MOpFDe87RBM",
-                "title": "pov: you're blushing while listening to this 🎧✨",
-                "artist": "NIKKU",
-                "duration": "13:22",
-                "art": "https://img.youtube.com/vi/MOpFDe87RBM/hqdefault.jpg"
         },
         {
                 "id": "DCfz8bTJr3E",
@@ -1570,60 +30,25 @@
                 "art": "https://img.youtube.com/vi/DCfz8bTJr3E/hqdefault.jpg"
         },
         {
-                "id": "l71Z9xMejYI",
-                "title": "Tu Cheez Lajwaab(तू चीज लाजवाब): Slowed+Reverb",
-                "artist": "AB Sloverb",
-                "duration": "2:55",
-                "art": "https://img.youtube.com/vi/l71Z9xMejYI/hqdefault.jpg"
+                "id": "iTok4C0S7vk",
+                "title": "Aankhein Khuli",
+                "artist": "Lata Mangeshkar",
+                "duration": "7:02",
+                "art": "https://img.youtube.com/vi/iTok4C0S7vk/hqdefault.jpg"
         },
         {
-                "id": "m8SbXVuGLFY",
-                "title": "Love Tujhe Love Main Karta",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:46",
-                "art": "https://img.youtube.com/vi/m8SbXVuGLFY/hqdefault.jpg"
+                "id": "aDlv2UX1lA8",
+                "title": "Mein Zinda Hoon Lekin Kahan Zindagi Hai - (Lofi Remake)",
+                "artist": "Indian Streamr",
+                "duration": "3:51",
+                "art": "https://img.youtube.com/vi/aDlv2UX1lA8/hqdefault.jpg"
         },
         {
-                "id": "i0rjBdFuHY8",
-                "title": "Desi Playlist to VIBE 💃🏻✨",
-                "artist": "Starlixx♡",
-                "duration": "4:49",
-                "art": "https://img.youtube.com/vi/i0rjBdFuHY8/hqdefault.jpg"
-        },
-        {
-                "id": "oafxkMv4xnc",
-                "title": "Bairan – Animated Love Story",
-                "artist": "Banjaare",
-                "duration": "2:30",
-                "art": "https://img.youtube.com/vi/oafxkMv4xnc/hqdefault.jpg"
-        },
-        {
-                "id": "LHRC5inoYhU",
-                "title": "Top 5 best English Bollywood songs - original music no copyrighted - music artist ayush songs",
-                "artist": "Ayush Songs",
-                "duration": "14:36",
-                "art": "https://img.youtube.com/vi/LHRC5inoYhU/hqdefault.jpg"
-        },
-        {
-                "id": "-Tl_FVOx-cs",
-                "title": "Raah Mein Unse Mulaqat",
-                "artist": "The Kumar Sanu Official",
-                "duration": "8:39",
-                "art": "https://img.youtube.com/vi/-Tl_FVOx-cs/hqdefault.jpg"
-        },
-        {
-                "id": "VUazWIMZHVw",
-                "title": "Aawara Shaam Hai [Slowed+Reverb] Meet Bros Ft & Piyush  Mehroliyaa",
-                "artist": "Lofi Music Channel",
-                "duration": "5:20",
-                "art": "https://img.youtube.com/vi/VUazWIMZHVw/hqdefault.jpg"
-        },
-        {
-                "id": "PH852EyVzO4",
-                "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
-                "artist": "The Kumar Sanu Official",
-                "duration": "4:49",
-                "art": "https://img.youtube.com/vi/PH852EyVzO4/hqdefault.jpg"
+                "id": "9SouCif-y6I",
+                "title": "Ishq (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:22",
+                "art": "https://img.youtube.com/vi/9SouCif-y6I/hqdefault.jpg"
         },
         {
                 "id": "TbNJ3bgUr7s",
@@ -1633,277 +58,53 @@
                 "art": "https://img.youtube.com/vi/TbNJ3bgUr7s/hqdefault.jpg"
         },
         {
-                "id": "qsTaDNyqaug",
-                "title": "Aankhon Se Tune Kya Keh Diya",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:06",
-                "art": "https://img.youtube.com/vi/qsTaDNyqaug/hqdefault.jpg"
+                "id": "QaM_KMzSo5Q",
+                "title": "Tumhari Nazron Mein Humne Dekha",
+                "artist": "Asha Bhosle",
+                "duration": "5:03",
+                "art": "https://img.youtube.com/vi/QaM_KMzSo5Q/hqdefault.jpg"
         },
         {
-                "id": "7J7hJVTzhQM",
-                "title": "Tu Hi Mera (Lofi Version)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:53",
-                "art": "https://img.youtube.com/vi/7J7hJVTzhQM/hqdefault.jpg"
-        },
-        {
-                "id": "XE3mvoKbODk",
-                "title": "A playlist cuz you're in your delulu era 🌚💅🏻 //@xoxo.snow0 #trending #aesthetic #fypシ゚viral",
-                "artist": "𝙎𝙣𝙤𝙬𝙞𝙯𝙯 !",
-                "duration": "6:06",
-                "art": "https://img.youtube.com/vi/XE3mvoKbODk/hqdefault.jpg"
-        },
-        {
-                "id": "f6iLUsdCRuk",
-                "title": "CHORI CHORI",
-                "artist": "Alka Yagnik",
-                "duration": "7:33",
-                "art": "https://img.youtube.com/vi/f6iLUsdCRuk/hqdefault.jpg"
-        },
-        {
-                "id": "Rq1cAlscQwE",
-                "title": "GEHRA HUA - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "6:39",
-                "art": "https://img.youtube.com/vi/Rq1cAlscQwE/hqdefault.jpg"
-        },
-        {
-                "id": "CEMloPWDDWw",
-                "title": "Woh Ladki Nahi Zindagi Hai Meri [Slowed+Reverb] - Alka Yagnik, Babul Supriya",
-                "artist": "Lofi Music Channel",
-                "duration": "5:00",
-                "art": "https://img.youtube.com/vi/CEMloPWDDWw/hqdefault.jpg"
-        },
-        {
-                "id": "hWGSVuTCawQ",
-                "title": "Kinna Chir [Official Audio]-([Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:48",
-                "art": "https://img.youtube.com/vi/hWGSVuTCawQ/hqdefault.jpg"
-        },
-        {
-                "id": "4mnrtxd_GhE",
-                "title": "Pov :- Bhojpuri playlist 🔥",
-                "artist": "Anshika",
-                "duration": "11:34",
-                "art": "https://img.youtube.com/vi/4mnrtxd_GhE/hqdefault.jpg"
-        },
-        {
-                "id": "MJ7nm0fgC2s",
-                "title": "DHUN - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:24",
-                "art": "https://img.youtube.com/vi/MJ7nm0fgC2s/hqdefault.jpg"
-        },
-        {
-                "id": "90KnE_qjUYI",
-                "title": "Chale Aana - [ Slowed + Reverb ] , - Armaan Malik",
-                "artist": "Ear Candy",
-                "duration": "5:18",
-                "art": "https://img.youtube.com/vi/90KnE_qjUYI/hqdefault.jpg"
-        },
-        {
-                "id": "aTViH7y9Xo4",
-                "title": "lo-fi song (slowed & reverse)",
-                "artist": "Lofi songs",
-                "duration": "4:38",
-                "art": "https://img.youtube.com/vi/aTViH7y9Xo4/hqdefault.jpg"
-        },
-        {
-                "id": "A_yQZns_YGk",
-                "title": "\"𝐖𝐞 𝐚𝐫𝐞 𝐣𝐮𝐬𝐭 𝐟𝐫𝐢𝐞𝐧𝐝𝐬... 𝐑𝐢𝐠𝐡𝐭.?\"/ 𝐀 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐟𝐨𝐫 𝐬𝐨𝐦𝐞𝐨𝐧𝐞 𝐲𝐨𝐮 𝐬𝐞𝐜𝐫𝐞𝐭𝐥𝐲 𝐥𝐨𝐯𝐞 😭💗✨ (𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 )",
-                "artist": "𝐕𝐀𝐌𝐏𝐈𝐑𝐄🩸🕯️",
-                "duration": "20:21",
-                "art": "https://img.youtube.com/vi/A_yQZns_YGk/hqdefault.jpg"
-        },
-        {
-                "id": "b6cr8CWaEjU",
-                "title": "MUJHE NEEND NA AAYE",
+                "id": "XuA0BvYksyI",
+                "title": "PYAR KIYA TO NIBHANA",
                 "artist": "Anuradha Paudwal Official",
-                "duration": "6:10",
-                "art": "https://img.youtube.com/vi/b6cr8CWaEjU/hqdefault.jpg"
+                "duration": "5:07",
+                "art": "https://img.youtube.com/vi/XuA0BvYksyI/hqdefault.jpg"
         },
         {
-                "id": "leaBxDGyjI0",
-                "title": "HUMSAFAR - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:12",
-                "art": "https://img.youtube.com/vi/leaBxDGyjI0/hqdefault.jpg"
-        },
-        {
-                "id": "1wSiT8ojX6o",
-                "title": "Achchi Lagti Ho",
+                "id": "AlrRpGEL2h4",
+                "title": "Jaadu Teri Nazar",
                 "artist": "Udit Narayan",
-                "duration": "6:19",
-                "art": "https://img.youtube.com/vi/1wSiT8ojX6o/hqdefault.jpg"
+                "duration": "4:40",
+                "art": "https://img.youtube.com/vi/AlrRpGEL2h4/hqdefault.jpg"
         },
         {
-                "id": "UTKmFTNTaU8",
-                "title": "Is Pyar Se Meri Taraf Na Dekho (Male)",
-                "artist": "The Kumar Sanu Official",
-                "duration": "5:18",
-                "art": "https://img.youtube.com/vi/UTKmFTNTaU8/hqdefault.jpg"
-        },
-        {
-                "id": "yt5-X_U4D8g",
-                "title": "The PropheC - Kina Chir (Slowed and Reverbed)",
+                "id": "OjRSyrkN2F8",
+                "title": "Abhi Na Jao Chhod Kar - (Slowed & Reverbed)",
                 "artist": "Sakeeb Beatz",
-                "duration": "4:06",
-                "art": "https://img.youtube.com/vi/yt5-X_U4D8g/hqdefault.jpg"
+                "duration": "3:31",
+                "art": "https://img.youtube.com/vi/OjRSyrkN2F8/hqdefault.jpg"
         },
         {
-                "id": "25Pl981Tbzk",
-                "title": "Lo-Fi Mashup Nonstop",
-                "artist": "727  Songs",
-                "duration": "33:43",
-                "art": "https://img.youtube.com/vi/25Pl981Tbzk/hqdefault.jpg"
+                "id": "pojYDw2hIB0",
+                "title": "Sone Rang De Ranjheya║Jyotica Tangri║Fukrey returns║Slowed & Reverb║",
+                "artist": "LÖFÍ QUEEN 👑",
+                "duration": "3:07",
+                "art": "https://img.youtube.com/vi/pojYDw2hIB0/hqdefault.jpg"
         },
         {
-                "id": "RdiKF_71FM4",
-                "title": "Aankho Mein Teri",
+                "id": "m7g2msu34sA",
+                "title": "ARZ KIYA HAI - (Slowed +  Reverb)",
                 "artist": "Sakeeb Beatz",
-                "duration": "4:20",
-                "art": "https://img.youtube.com/vi/RdiKF_71FM4/hqdefault.jpg"
+                "duration": "3:09",
+                "art": "https://img.youtube.com/vi/m7g2msu34sA/hqdefault.jpg"
         },
         {
-                "id": "fopjq6mbSVU",
-                "title": "RAATAAN LAMBIYAN",
+                "id": "G_U31k6sLPE",
+                "title": "KABIRA (slowed and reverbed) - Yeh Jawaani Hai Deewani",
                 "artist": "Sakeeb Beatz",
-                "duration": "3:50",
-                "art": "https://img.youtube.com/vi/fopjq6mbSVU/hqdefault.jpg"
-        },
-        {
-                "id": "Gp_VnaYoMW4",
-                "title": "Ghoonghat Ki Aadh Se",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:17",
-                "art": "https://img.youtube.com/vi/Gp_VnaYoMW4/hqdefault.jpg"
-        },
-        {
-                "id": "SKwGhH8FHJI",
-                "title": "Mere Khwabon Mein Tu",
-                "artist": "Alka Yagnik",
-                "duration": "5:35",
-                "art": "https://img.youtube.com/vi/SKwGhH8FHJI/hqdefault.jpg"
-        },
-        {
-                "id": "azHbsWaJDUc",
-                "title": "Tum jo Aaye",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:18",
-                "art": "https://img.youtube.com/vi/azHbsWaJDUc/hqdefault.jpg"
-        },
-        {
-                "id": "7Ny77gTsWGk",
-                "title": "Hum Yaar Hai Tumhare",
-                "artist": "Udit Narayan",
-                "duration": "7:15",
-                "art": "https://img.youtube.com/vi/7Ny77gTsWGk/hqdefault.jpg"
-        },
-        {
-                "id": "5Tj8yXuzGjM",
-                "title": "ITNI SI BAAT HAI",
-                "artist": "Sakeeb Beatz",
-                "duration": "6:24",
-                "art": "https://img.youtube.com/vi/5Tj8yXuzGjM/hqdefault.jpg"
-        },
-        {
-                "id": "GUexns55rIM",
-                "title": "MAAND - Slowed & Reverbed  (Aesthetic Edit)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:05",
-                "art": "https://img.youtube.com/vi/GUexns55rIM/hqdefault.jpg"
-        },
-        {
-                "id": "E_xJ02G-4S4",
-                "title": "O Meri Laila - Laila Majnu (Lofi Remix)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:31",
-                "art": "https://img.youtube.com/vi/E_xJ02G-4S4/hqdefault.jpg"
-        },
-        {
-                "id": "RcXL8IDnzyQ",
-                "title": "Kahin Mujhe Pyar Hua Toh Nahin ()",
-                "artist": "Alka Yagnik",
-                "duration": "6:55",
-                "art": "https://img.youtube.com/vi/RcXL8IDnzyQ/hqdefault.jpg"
-        },
-        {
-                "id": "a9ZkoT9bmxA",
-                "title": "SUN RAHA HAI NA TU - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:05",
-                "art": "https://img.youtube.com/vi/a9ZkoT9bmxA/hqdefault.jpg"
-        },
-        {
-                "id": "mPZ1613Dv-g",
-                "title": "Dhire Dhire Aap Mere",
-                "artist": "Udit Narayan",
-                "duration": "5:44",
-                "art": "https://img.youtube.com/vi/mPZ1613Dv-g/hqdefault.jpg"
-        },
-        {
-                "id": "u9fsqRFKI8U",
-                "title": "Zaroori Tha - Slowed & Reverb",
-                "artist": "Sakeeb Beatz",
-                "duration": "0:58",
-                "art": "https://img.youtube.com/vi/u9fsqRFKI8U/hqdefault.jpg"
-        },
-        {
-                "id": "5EZagydXjNU",
-                "title": "Ek Sanam Chahiye Aashiqui Ke Liye",
-                "artist": "The Kumar Sanu Official",
-                "duration": "6:11",
-                "art": "https://img.youtube.com/vi/5EZagydXjNU/hqdefault.jpg"
-        },
-        {
-                "id": "UIsmdiryrdY",
-                "title": "Mera Hua (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "4:08",
-                "art": "https://img.youtube.com/vi/UIsmdiryrdY/hqdefault.jpg"
-        },
-        {
-                "id": "XAW4WKKzD3g",
-                "title": "Jaana - Lofi (Slowed + Reverb)",
-                "artist": "SR Lofi",
-                "duration": "4:13",
-                "art": "https://img.youtube.com/vi/XAW4WKKzD3g/hqdefault.jpg"
-        },
-        {
-                "id": "SXC-uVxVjvQ",
-                "title": "SAJDE - (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "6:30",
-                "art": "https://img.youtube.com/vi/SXC-uVxVjvQ/hqdefault.jpg"
-        },
-        {
-                "id": "1DYpoYNu6jg",
-                "title": "SHUBH - OFFSHORE (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "3:10",
-                "art": "https://img.youtube.com/vi/1DYpoYNu6jg/hqdefault.jpg"
-        },
-        {
-                "id": "Vmp_jnW2ugg",
-                "title": "JHOL x MAAND - (Slowed & Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "2:48",
-                "art": "https://img.youtube.com/vi/Vmp_jnW2ugg/hqdefault.jpg"
-        },
-        {
-                "id": "HixgP5OthKA",
-                "title": "Rabba (Slowed + Reverb)",
-                "artist": "Sakeeb Beatz",
-                "duration": "5:17",
-                "art": "https://img.youtube.com/vi/HixgP5OthKA/hqdefault.jpg"
-        },
-        {
-                "id": "e0348oOy9iY",
-                "title": "Agar Tum Mil Jao (Slowed &Reverbed)",
-                "artist": "Sakeeb Beatz",
-                "duration": "1:22",
-                "art": "https://img.youtube.com/vi/e0348oOy9iY/hqdefault.jpg"
+                "duration": "3:24",
+                "art": "https://img.youtube.com/vi/G_U31k6sLPE/hqdefault.jpg"
         },
         {
                 "id": "jV6lAYbP9jc",
@@ -1913,39 +114,172 @@
                 "art": "https://img.youtube.com/vi/jV6lAYbP9jc/hqdefault.jpg"
         },
         {
-                "id": "BZ77Xs6nDWs",
-                "title": "Dil Sambhal Jaa Zara",
+                "id": "SXC-uVxVjvQ",
+                "title": "SAJDE - (Slowed + Reverb)",
                 "artist": "Sakeeb Beatz",
-                "duration": "5:43",
-                "art": "https://img.youtube.com/vi/BZ77Xs6nDWs/hqdefault.jpg"
+                "duration": "6:30",
+                "art": "https://img.youtube.com/vi/SXC-uVxVjvQ/hqdefault.jpg"
         },
         {
-                "id": "kp00LrbcRd4",
-                "title": "Aye Dil Laya Hai Bahaar",
-                "artist": "Kavita Krishnamurthy",
-                "duration": "4:28",
-                "art": "https://img.youtube.com/vi/kp00LrbcRd4/hqdefault.jpg"
+                "id": "fRnhuJ8gR20",
+                "title": "Chahun Tujhe",
+                "artist": "Vinod Rathod",
+                "duration": "6:10",
+                "art": "https://img.youtube.com/vi/fRnhuJ8gR20/hqdefault.jpg"
         },
         {
-                "id": "WAe4nOOy3l4",
-                "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "5:28",
-                "art": "https://img.youtube.com/vi/WAe4nOOy3l4/hqdefault.jpg"
-        },
-        {
-                "id": "5pJFswC_x50",
-                "title": "VE KAMLEYA - (Slowed & Reverbed)",
+                "id": "qPxuYaYnAyo",
+                "title": "ISHQ SUFIYANA - (Slowed and Reverbed)",
                 "artist": "Sakeeb Beatz",
-                "duration": "4:35",
-                "art": "https://img.youtube.com/vi/5pJFswC_x50/hqdefault.jpg"
+                "duration": "1:13",
+                "art": "https://img.youtube.com/vi/qPxuYaYnAyo/hqdefault.jpg"
         },
         {
-                "id": "d8tYA8mPmh0",
-                "title": "Woh Aankh Hi Kya",
+                "id": "6001A1B_fIo",
+                "title": "Dil Ka Rishta (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:37",
+                "art": "https://img.youtube.com/vi/6001A1B_fIo/hqdefault.jpg"
+        },
+        {
+                "id": "i0rjBdFuHY8",
+                "title": "Desi Playlist to VIBE 💃🏻✨",
+                "artist": "Starlixx♡",
+                "duration": "4:49",
+                "art": "https://img.youtube.com/vi/i0rjBdFuHY8/hqdefault.jpg"
+        },
+        {
+                "id": "-Tl_FVOx-cs",
+                "title": "Raah Mein Unse Mulaqat",
                 "artist": "The Kumar Sanu Official",
-                "duration": "7:02",
-                "art": "https://img.youtube.com/vi/d8tYA8mPmh0/hqdefault.jpg"
+                "duration": "8:39",
+                "art": "https://img.youtube.com/vi/-Tl_FVOx-cs/hqdefault.jpg"
+        },
+        {
+                "id": "AvNyfTsiqBg",
+                "title": "OODHNI",
+                "artist": "Udit Narayan",
+                "duration": "6:50",
+                "art": "https://img.youtube.com/vi/AvNyfTsiqBg/hqdefault.jpg"
+        },
+        {
+                "id": "yEAnn5QL2qk",
+                "title": "Majboor (Slowed + Reverb) – Sheheryar Rehan x Zoha Waseem",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:27",
+                "art": "https://img.youtube.com/vi/yEAnn5QL2qk/hqdefault.jpg"
+        },
+        {
+                "id": "wjSOLIRTV8A",
+                "title": "Bargad - (Slowed & Reverbed) Arpit Bala ft. Sufr",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:38",
+                "art": "https://img.youtube.com/vi/wjSOLIRTV8A/hqdefault.jpg"
+        },
+        {
+                "id": "bYIRwyNsjBg",
+                "title": "Ye tune kya kiya - (slowed and reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:34",
+                "art": "https://img.youtube.com/vi/bYIRwyNsjBg/hqdefault.jpg"
+        },
+        {
+                "id": "m8SbXVuGLFY",
+                "title": "Love Tujhe Love Main Karta",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:46",
+                "art": "https://img.youtube.com/vi/m8SbXVuGLFY/hqdefault.jpg"
+        },
+        {
+                "id": "u4m-EPPXqM0",
+                "title": "Ajnabi Mujhko Itna Bata",
+                "artist": "Jatin Lalit",
+                "duration": "6:14",
+                "art": "https://img.youtube.com/vi/u4m-EPPXqM0/hqdefault.jpg"
+        },
+        {
+                "id": "aTViH7y9Xo4",
+                "title": "lo-fi song (slowed & reverse)",
+                "artist": "Lofi songs",
+                "duration": "4:38",
+                "art": "https://img.youtube.com/vi/aTViH7y9Xo4/hqdefault.jpg"
+        },
+        {
+                "id": "tgSwOZUL6SY",
+                "title": "Adayein Bhi Hain Mohabbat Bhi Hai",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "5:25",
+                "art": "https://img.youtube.com/vi/tgSwOZUL6SY/hqdefault.jpg"
+        },
+        {
+                "id": "No5J2SXEEJc",
+                "title": "ADMIRING YOU - (Slowed + Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:08",
+                "art": "https://img.youtube.com/vi/No5J2SXEEJc/hqdefault.jpg"
+        },
+        {
+                "id": "O4HWPsK00Vg",
+                "title": "DEEWANIYAT (Slowed + Reverbed) - Ek Deewane Ki Deewaniyat",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:33",
+                "art": "https://img.youtube.com/vi/O4HWPsK00Vg/hqdefault.jpg"
+        },
+        {
+                "id": "5MIGQBpVeqs",
+                "title": "Mujhse Mohabbat Ka",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:12",
+                "art": "https://img.youtube.com/vi/5MIGQBpVeqs/hqdefault.jpg"
+        },
+        {
+                "id": "3jPv11cJEcU",
+                "title": "Yeh Ladka Hai Allah",
+                "artist": "Jatin Lalit",
+                "duration": "5:27",
+                "art": "https://img.youtube.com/vi/3jPv11cJEcU/hqdefault.jpg"
+        },
+        {
+                "id": "xIxtXS5L8oc",
+                "title": "Tum Mile (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:40",
+                "art": "https://img.youtube.com/vi/xIxtXS5L8oc/hqdefault.jpg"
+        },
+        {
+                "id": "d8F8p49mTqw",
+                "title": "LABON KO - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:30",
+                "art": "https://img.youtube.com/vi/d8F8p49mTqw/hqdefault.jpg"
+        },
+        {
+                "id": "qZ78-_PdbwQ",
+                "title": "𝐀𝐋𝐋 𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆 𝐇𝐈𝐍𝐃𝐈 𝐒𝐎𝐍𝐆𝐒 𝟐𝟎𝟐𝟔",
+                "artist": "Aesthetic boomer",
+                "duration": "11:52",
+                "art": "https://img.youtube.com/vi/qZ78-_PdbwQ/hqdefault.jpg"
+        },
+        {
+                "id": "rwVSC52Rp7c",
+                "title": "𝐃𝐞𝐬𝐢 𝐛𝐚𝐝𝐝𝐢𝐞 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐜𝐮𝐳 𝐲𝐨𝐮'𝐫𝐞 𝐛𝐚𝐜𝐤 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐩𝐫𝐢𝐦𝐞__💋💅. Diva_vibez ࣪ ִֶָ☾.",
+                "artist": "rie",
+                "duration": "13:51",
+                "art": "https://img.youtube.com/vi/rwVSC52Rp7c/hqdefault.jpg"
+        },
+        {
+                "id": "T12GUFSsV3M",
+                "title": "Mind relaxing lofi mashup♥️",
+                "artist": "Vibewithrohan01",
+                "duration": "6:47",
+                "art": "https://img.youtube.com/vi/T12GUFSsV3M/hqdefault.jpg"
+        },
+        {
+                "id": "e0348oOy9iY",
+                "title": "Agar Tum Mil Jao (Slowed &Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:22",
+                "art": "https://img.youtube.com/vi/e0348oOy9iY/hqdefault.jpg"
         },
         {
                 "id": "GMF0FN2nrBw",
@@ -1955,11 +289,214 @@
                 "art": "https://img.youtube.com/vi/GMF0FN2nrBw/hqdefault.jpg"
         },
         {
-                "id": "3sUoQFnOzfU",
-                "title": "Bahut Pyar Karte Hai (Female Version)",
-                "artist": "Anuradha Paudwal Official",
-                "duration": "4:26",
-                "art": "https://img.youtube.com/vi/3sUoQFnOzfU/hqdefault.jpg"
+                "id": "A_yQZns_YGk",
+                "title": "\"𝐖𝐞 𝐚𝐫𝐞 𝐣𝐮𝐬𝐭 𝐟𝐫𝐢𝐞𝐧𝐝𝐬... 𝐑𝐢𝐠𝐡𝐭.?\"/ 𝐀 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐟𝐨𝐫 𝐬𝐨𝐦𝐞𝐨𝐧𝐞 𝐲𝐨𝐮 𝐬𝐞𝐜𝐫𝐞𝐭𝐥𝐲 𝐥𝐨𝐯𝐞 😭💗✨ (𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 )",
+                "artist": "𝐕𝐀𝐌𝐏𝐈𝐑𝐄🩸🕯️",
+                "duration": "20:21",
+                "art": "https://img.youtube.com/vi/A_yQZns_YGk/hqdefault.jpg"
+        },
+        {
+                "id": "qsTaDNyqaug",
+                "title": "Aankhon Se Tune Kya Keh Diya",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:06",
+                "art": "https://img.youtube.com/vi/qsTaDNyqaug/hqdefault.jpg"
+        },
+        {
+                "id": "1yxPgW0runE",
+                "title": "Teri Deewani - (Slowed & Reverbed) Only Vocals/Acapella",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:23",
+                "art": "https://img.youtube.com/vi/1yxPgW0runE/hqdefault.jpg"
+        },
+        {
+                "id": "lhKllvkEW5U",
+                "title": "Bairan -  (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:37",
+                "art": "https://img.youtube.com/vi/lhKllvkEW5U/hqdefault.jpg"
+        },
+        {
+                "id": "uHbKAnli9DE",
+                "title": "Dil Sambhal Jaa Zara",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:43",
+                "art": "https://img.youtube.com/vi/uHbKAnli9DE/hqdefault.jpg"
+        },
+        {
+                "id": "CEMloPWDDWw",
+                "title": "Woh Ladki Nahi Zindagi Hai Meri [Slowed+Reverb] - Alka Yagnik, Babul Supriya",
+                "artist": "Lofi Music Channel",
+                "duration": "5:00",
+                "art": "https://img.youtube.com/vi/CEMloPWDDWw/hqdefault.jpg"
+        },
+        {
+                "id": "flQgOwg4jLI",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐅𝐨𝐫 𝐘𝐨𝐮 𝐓𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐅𝐚𝐤𝐞 𝐒𝐜𝐞𝐧𝐚𝐫𝐢𝐨𝐬 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐌𝐢𝐧𝐝 🤍",
+                "artist": "Ashik's Cloudlist",
+                "duration": "15:10",
+                "art": "https://img.youtube.com/vi/flQgOwg4jLI/hqdefault.jpg"
+        },
+        {
+                "id": "b9j_rGdKKXk",
+                "title": "Hum Teri Mohabbat Mein",
+                "artist": "Baayo Lifestyle",
+                "duration": "5:38",
+                "art": "https://img.youtube.com/vi/b9j_rGdKKXk/hqdefault.jpg"
+        },
+        {
+                "id": "CL-w9aJ3Uhw",
+                "title": "Dil Hai Tumhaara",
+                "artist": "Nadeem Shravan",
+                "duration": "6:41",
+                "art": "https://img.youtube.com/vi/CL-w9aJ3Uhw/hqdefault.jpg"
+        },
+        {
+                "id": "vYGw1V2NSik",
+                "title": "Dil Ke Paas (Indian Version) Lyrical Video Song",
+                "artist": "T-Series",
+                "duration": "4:25",
+                "art": "https://img.youtube.com/vi/vYGw1V2NSik/hqdefault.jpg"
+        },
+        {
+                "id": "w5Tyh0vEI0o",
+                "title": "Tujh Mein Rab Dikhta Hai - Lofi (Slowed+Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:00",
+                "art": "https://img.youtube.com/vi/w5Tyh0vEI0o/hqdefault.jpg"
+        },
+        {
+                "id": "8di60r36hJU",
+                "title": "✨a peaceful playlist while your study 🌸#playlist#bollywoodsong",
+                "artist": "Boba Waves",
+                "duration": "11:02",
+                "art": "https://img.youtube.com/vi/8di60r36hJU/hqdefault.jpg"
+        },
+        {
+                "id": "RdiKF_71FM4",
+                "title": "Aankho Mein Teri",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:20",
+                "art": "https://img.youtube.com/vi/RdiKF_71FM4/hqdefault.jpg"
+        },
+        {
+                "id": "f6iLUsdCRuk",
+                "title": "CHORI CHORI",
+                "artist": "Alka Yagnik",
+                "duration": "7:33",
+                "art": "https://img.youtube.com/vi/f6iLUsdCRuk/hqdefault.jpg"
+        },
+        {
+                "id": "p1eBtgw_U5U",
+                "title": "TU CHAHIYE -(Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:43",
+                "art": "https://img.youtube.com/vi/p1eBtgw_U5U/hqdefault.jpg"
+        },
+        {
+                "id": "1P7LZP22lI0",
+                "title": "Meri Zindagi Hai Tu (Slowed + Reverb)RD lofi music",
+                "artist": "RD LOFI MUSIC",
+                "duration": "4:52",
+                "art": "https://img.youtube.com/vi/1P7LZP22lI0/hqdefault.jpg"
+        },
+        {
+                "id": "u4M2eNXmhdY",
+                "title": "Tera Hi Naam Hoga",
+                "artist": "Alka Yagnik",
+                "duration": "5:14",
+                "art": "https://img.youtube.com/vi/u4M2eNXmhdY/hqdefault.jpg"
+        },
+        {
+                "id": "Q3jLrlAIWSU",
+                "title": "𝘛𝘩𝘦 𝘔𝘰𝘴𝘵 𝘛𝘳𝘦𝘯𝘥𝘪𝘯𝘨 𝘚𝘰𝘯𝘨𝘴 𝘖𝘧 2026 (+ 𝘵𝘪𝘮𝘦𝘴𝘵𝘢𝘮𝘱𝘴) 🎀🌷✨⋆. 𐙚 ˚",
+                "artist": "𝙏𝙪𝙭𝙡𝙞𝙥𝙨 🌷",
+                "duration": "33:37",
+                "art": "https://img.youtube.com/vi/Q3jLrlAIWSU/hqdefault.jpg"
+        },
+        {
+                "id": "RizsJydNAEY",
+                "title": "Ae Mere Humsafar",
+                "artist": "Vinod Rathod",
+                "duration": "7:34",
+                "art": "https://img.youtube.com/vi/RizsJydNAEY/hqdefault.jpg"
+        },
+        {
+                "id": "dicmFa6CnS0",
+                "title": "Phir Aur Kya Chahiye (Lofi Version)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:01",
+                "art": "https://img.youtube.com/vi/dicmFa6CnS0/hqdefault.jpg"
+        },
+        {
+                "id": "mT3xyXTzqHM",
+                "title": "Bheegi Huyee Hai Raat",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:21",
+                "art": "https://img.youtube.com/vi/mT3xyXTzqHM/hqdefault.jpg"
+        },
+        {
+                "id": "xIj33nXPvxg",
+                "title": "Desi playlist which will make you dance at 3am!",
+                "artist": "Xthetic._Ashi.",
+                "duration": "7:12",
+                "art": "https://img.youtube.com/vi/xIj33nXPvxg/hqdefault.jpg"
+        },
+        {
+                "id": "0nnJ4WoR7Ao",
+                "title": "Jaan Nisar - Lofi (Slowed+Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:03",
+                "art": "https://img.youtube.com/vi/0nnJ4WoR7Ao/hqdefault.jpg"
+        },
+        {
+                "id": "JQ922u24pH8",
+                "title": "DESI PUNJABI PLAYLIST THAT GETS YOUR VIBE 😌🎧",
+                "artist": "Your April",
+                "duration": "11:21",
+                "art": "https://img.youtube.com/vi/JQ922u24pH8/hqdefault.jpg"
+        },
+        {
+                "id": "3zciXYKHpU0",
+                "title": "Jaane Woh Kaise -(Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:24",
+                "art": "https://img.youtube.com/vi/3zciXYKHpU0/hqdefault.jpg"
+        },
+        {
+                "id": "oafxkMv4xnc",
+                "title": "Bairan – Animated Love Story",
+                "artist": "Banjaare",
+                "duration": "2:30",
+                "art": "https://img.youtube.com/vi/oafxkMv4xnc/hqdefault.jpg"
+        },
+        {
+                "id": "r_pR3LL3O8E",
+                "title": "Samjho Na Lofi Mashup Song [Slowed+reverb]",
+                "artist": "Aniket Bankar35",
+                "duration": "7:57",
+                "art": "https://img.youtube.com/vi/r_pR3LL3O8E/hqdefault.jpg"
+        },
+        {
+                "id": "cSq1B5goEfA",
+                "title": "Mohabbat Ho Na Jaye",
+                "artist": "Alka Yagnik",
+                "duration": "6:35",
+                "art": "https://img.youtube.com/vi/cSq1B5goEfA/hqdefault.jpg"
+        },
+        {
+                "id": "YhEdDnxHZt4",
+                "title": "Jo Bhi Kasmein",
+                "artist": "Alka Yagnik",
+                "duration": "5:40",
+                "art": "https://img.youtube.com/vi/YhEdDnxHZt4/hqdefault.jpg"
+        },
+        {
+                "id": "uMsR_R9xWpM",
+                "title": "Roi Na Je yaad Meri Aayi Ve",
+                "artist": "Mayank Singh Rajawat",
+                "duration": "3:10",
+                "art": "https://img.youtube.com/vi/uMsR_R9xWpM/hqdefault.jpg"
         },
         {
                 "id": "6tCU4B8hR8Q",
@@ -1969,11 +506,11 @@
                 "art": "https://img.youtube.com/vi/6tCU4B8hR8Q/hqdefault.jpg"
         },
         {
-                "id": "UQBRTcsClpQ",
-                "title": "A playlist for farewell#best friend ❤️✨",
-                "artist": "Lax",
-                "duration": "6:05",
-                "art": "https://img.youtube.com/vi/UQBRTcsClpQ/hqdefault.jpg"
+                "id": "SKwGhH8FHJI",
+                "title": "Mere Khwabon Mein Tu",
+                "artist": "Alka Yagnik",
+                "duration": "5:35",
+                "art": "https://img.youtube.com/vi/SKwGhH8FHJI/hqdefault.jpg"
         },
         {
                 "id": "85X3VDOKWis",
@@ -1983,6 +520,524 @@
                 "art": "https://img.youtube.com/vi/85X3VDOKWis/hqdefault.jpg"
         },
         {
+                "id": "1uU6y-PR1eA",
+                "title": "RAABTA - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:09",
+                "art": "https://img.youtube.com/vi/1uU6y-PR1eA/hqdefault.jpg"
+        },
+        {
+                "id": "7W_VHy69oXg",
+                "title": "SUN SAATHIYA - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:30",
+                "art": "https://img.youtube.com/vi/7W_VHy69oXg/hqdefault.jpg"
+        },
+        {
+                "id": "tu7gxUfeRKc",
+                "title": "College Ki Ladkiyon",
+                "artist": "Udit Narayan",
+                "duration": "5:49",
+                "art": "https://img.youtube.com/vi/tu7gxUfeRKc/hqdefault.jpg"
+        },
+        {
+                "id": "bm-bl9GMe8Y",
+                "title": "\"𝙃𝙖𝙮𝙖𝙣𝙫𝙞 𝙗𝙖𝙣𝙜𝙚𝙧𝙨 𝙩𝙤 𝙫𝙞𝙗𝙚\"✨💅 @moonlit_.melodies7  (+timestamps)",
+                "artist": "Divyana",
+                "duration": "10:58",
+                "art": "https://img.youtube.com/vi/bm-bl9GMe8Y/hqdefault.jpg"
+        },
+        {
+                "id": "XAW4WKKzD3g",
+                "title": "Jaana - Lofi (Slowed + Reverb)",
+                "artist": "SR Lofi",
+                "duration": "4:13",
+                "art": "https://img.youtube.com/vi/XAW4WKKzD3g/hqdefault.jpg"
+        },
+        {
+                "id": "mUmRgBzzpyg",
+                "title": "Humko Sirf Tumse",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:49",
+                "art": "https://img.youtube.com/vi/mUmRgBzzpyg/hqdefault.jpg"
+        },
+        {
+                "id": "MbWpPuuU1Vc",
+                "title": "Bole Chudiyan",
+                "artist": "Jatin Lalit",
+                "duration": "6:48",
+                "art": "https://img.youtube.com/vi/MbWpPuuU1Vc/hqdefault.jpg"
+        },
+        {
+                "id": "ip69IsY2YoU",
+                "title": "Ishq De Fanniyar, Achchi Lagti Ho, Fakira, O Maahi, O Sajni Re",
+                "artist": "ZEN LOFI SONG",
+                "duration": "17:29",
+                "art": "https://img.youtube.com/vi/ip69IsY2YoU/hqdefault.jpg"
+        },
+        {
+                "id": "Vmp_jnW2ugg",
+                "title": "JHOL x MAAND - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:48",
+                "art": "https://img.youtube.com/vi/Vmp_jnW2ugg/hqdefault.jpg"
+        },
+        {
+                "id": "kff7Wdv83gw",
+                "title": "HAULE HAULE - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:19",
+                "art": "https://img.youtube.com/vi/kff7Wdv83gw/hqdefault.jpg"
+        },
+        {
+                "id": "LMpSZWT1O78",
+                "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:40",
+                "art": "https://img.youtube.com/vi/LMpSZWT1O78/hqdefault.jpg"
+        },
+        {
+                "id": "qfeXr3AiV5s",
+                "title": "Saiyaara - Reprise Female (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:45",
+                "art": "https://img.youtube.com/vi/qfeXr3AiV5s/hqdefault.jpg"
+        },
+        {
+                "id": "W8We0tKTmQ0",
+                "title": "Tum Mile [Slowed+Reverb] - Javed Ali",
+                "artist": "CDA Records",
+                "duration": "5:44",
+                "art": "https://img.youtube.com/vi/W8We0tKTmQ0/hqdefault.jpg"
+        },
+        {
+                "id": "MzhsLzOTZNA",
+                "title": "MAIN HOON NA",
+                "artist": "Sonu Nigam",
+                "duration": "6:01",
+                "art": "https://img.youtube.com/vi/MzhsLzOTZNA/hqdefault.jpg"
+        },
+        {
+                "id": "leaBxDGyjI0",
+                "title": "HUMSAFAR - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:12",
+                "art": "https://img.youtube.com/vi/leaBxDGyjI0/hqdefault.jpg"
+        },
+        {
+                "id": "XDz2-7DoOgc",
+                "title": "HUSN - Anuv Jain (Lofi Remix)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:26",
+                "art": "https://img.youtube.com/vi/XDz2-7DoOgc/hqdefault.jpg"
+        },
+        {
+                "id": "aj8Dsv36R1c",
+                "title": "Chori Chori Dil Tera Churayenge (HD)",
+                "artist": "Shemaroo Filmi Gaane",
+                "duration": "4:39",
+                "art": "https://img.youtube.com/vi/aj8Dsv36R1c/hqdefault.jpg"
+        },
+        {
+                "id": "3sUoQFnOzfU",
+                "title": "Bahut Pyar Karte Hai (Female Version)",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "4:26",
+                "art": "https://img.youtube.com/vi/3sUoQFnOzfU/hqdefault.jpg"
+        },
+        {
+                "id": "pWSOpNJFiGc",
+                "title": "Marjaana (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:54",
+                "art": "https://img.youtube.com/vi/pWSOpNJFiGc/hqdefault.jpg"
+        },
+        {
+                "id": "leZIk4Q3L6I",
+                "title": "Yeh Dua Hai Meri",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:16",
+                "art": "https://img.youtube.com/vi/leZIk4Q3L6I/hqdefault.jpg"
+        },
+        {
+                "id": "5EZagydXjNU",
+                "title": "Ek Sanam Chahiye Aashiqui Ke Liye",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:11",
+                "art": "https://img.youtube.com/vi/5EZagydXjNU/hqdefault.jpg"
+        },
+        {
+                "id": "YAepjGdtFNM",
+                "title": "Tera Hone Laga Hoon- (slowed and reverbed)/Audio Edit",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:34",
+                "art": "https://img.youtube.com/vi/YAepjGdtFNM/hqdefault.jpg"
+        },
+        {
+                "id": "QjqKXFGM3eI",
+                "title": "Chori Chori Dil Tera (HD) - Kumar Sanu Songs - Romantic Songs - 90's Love Song",
+                "artist": "Shemaroo Filmi Gaane",
+                "duration": "6:53",
+                "art": "https://img.youtube.com/vi/QjqKXFGM3eI/hqdefault.jpg"
+        },
+        {
+                "id": "XE3mvoKbODk",
+                "title": "A playlist cuz you're in your delulu era 🌚💅🏻 //@xoxo.snow0 #trending #aesthetic #fypシ゚viral",
+                "artist": "𝙎𝙣𝙤𝙬𝙞𝙯𝙯 !",
+                "duration": "6:06",
+                "art": "https://img.youtube.com/vi/XE3mvoKbODk/hqdefault.jpg"
+        },
+        {
+                "id": "EN_ydFzNoPk",
+                "title": "Ab Tere Dil Mein To",
+                "artist": "The Kumar Sanu Official",
+                "duration": "8:21",
+                "art": "https://img.youtube.com/vi/EN_ydFzNoPk/hqdefault.jpg"
+        },
+        {
+                "id": "1DYpoYNu6jg",
+                "title": "SHUBH - OFFSHORE (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:10",
+                "art": "https://img.youtube.com/vi/1DYpoYNu6jg/hqdefault.jpg"
+        },
+        {
+                "id": "Bwvl1jvJRws",
+                "title": "Chahu Mai Ya Na - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:33",
+                "art": "https://img.youtube.com/vi/Bwvl1jvJRws/hqdefault.jpg"
+        },
+        {
+                "id": "8hvwzeAbFm8",
+                "title": "Jhanjharia (Male)",
+                "artist": "Abhijeet Unplugged",
+                "duration": "4:43",
+                "art": "https://img.youtube.com/vi/8hvwzeAbFm8/hqdefault.jpg"
+        },
+        {
+                "id": "-6ylL4rXwPg",
+                "title": "Bas Ek Dhadak (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:37",
+                "art": "https://img.youtube.com/vi/-6ylL4rXwPg/hqdefault.jpg"
+        },
+        {
+                "id": "n4PhQkECJTk",
+                "title": "HASEEN - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:03",
+                "art": "https://img.youtube.com/vi/n4PhQkECJTk/hqdefault.jpg"
+        },
+        {
+                "id": "a63m9hVp5uo",
+                "title": "Bol Do Na Zara",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:19",
+                "art": "https://img.youtube.com/vi/a63m9hVp5uo/hqdefault.jpg"
+        },
+        {
+                "id": "6pb1gw2xSD8",
+                "title": "Baazigar O Baazigar",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:29",
+                "art": "https://img.youtube.com/vi/6pb1gw2xSD8/hqdefault.jpg"
+        },
+        {
+                "id": "Rq1cAlscQwE",
+                "title": "GEHRA HUA - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "6:39",
+                "art": "https://img.youtube.com/vi/Rq1cAlscQwE/hqdefault.jpg"
+        },
+        {
+                "id": "JmWtFxMxink",
+                "title": "Sajde",
+                "artist": "YRF",
+                "duration": "3:48",
+                "art": "https://img.youtube.com/vi/JmWtFxMxink/hqdefault.jpg"
+        },
+        {
+                "id": "pMHydGL4URo",
+                "title": "Gore Gore Mukhde Pe",
+                "artist": "Udit Narayan",
+                "duration": "5:12",
+                "art": "https://img.youtube.com/vi/pMHydGL4URo/hqdefault.jpg"
+        },
+        {
+                "id": "meA7El2pZyc",
+                "title": "Pardesiya (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:08",
+                "art": "https://img.youtube.com/vi/meA7El2pZyc/hqdefault.jpg"
+        },
+        {
+                "id": "jsCh0p9-rQ4",
+                "title": "JHOL - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:25",
+                "art": "https://img.youtube.com/vi/jsCh0p9-rQ4/hqdefault.jpg"
+        },
+        {
+                "id": "E2VQbiq6QbM",
+                "title": "Let Her Go x Apa Fer Milaange (Lofi Mashup)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:18",
+                "art": "https://img.youtube.com/vi/E2VQbiq6QbM/hqdefault.jpg"
+        },
+        {
+                "id": "yoX3KQqh_4o",
+                "title": "Tum Tak - (Lofi Remix)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:21",
+                "art": "https://img.youtube.com/vi/yoX3KQqh_4o/hqdefault.jpg"
+        },
+        {
+                "id": "5Tj8yXuzGjM",
+                "title": "ITNI SI BAAT HAI",
+                "artist": "Sakeeb Beatz",
+                "duration": "6:24",
+                "art": "https://img.youtube.com/vi/5Tj8yXuzGjM/hqdefault.jpg"
+        },
+        {
+                "id": "TwZRSYKyMVk",
+                "title": "Samjhawan - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:19",
+                "art": "https://img.youtube.com/vi/TwZRSYKyMVk/hqdefault.jpg"
+        },
+        {
+                "id": "NUkD8OIuZPk",
+                "title": "CHAL GHAR CHALE - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:05",
+                "art": "https://img.youtube.com/vi/NUkD8OIuZPk/hqdefault.jpg"
+        },
+        {
+                "id": "wjTSry-Ouhg",
+                "title": "Dekhne Walon Ne",
+                "artist": "Various Artists",
+                "duration": "6:13",
+                "art": "https://img.youtube.com/vi/wjTSry-Ouhg/hqdefault.jpg"
+        },
+        {
+                "id": "UIsmdiryrdY",
+                "title": "Mera Hua (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:08",
+                "art": "https://img.youtube.com/vi/UIsmdiryrdY/hqdefault.jpg"
+        },
+        {
+                "id": "JfcYRdjbcy4",
+                "title": "Bahut Jatate Ho Pyar",
+                "artist": "Alka Yagnik",
+                "duration": "7:11",
+                "art": "https://img.youtube.com/vi/JfcYRdjbcy4/hqdefault.jpg"
+        },
+        {
+                "id": "RoXAvSlDcs4",
+                "title": "Woh Lamhe Woh Baatein (Lofi Version)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:49",
+                "art": "https://img.youtube.com/vi/RoXAvSlDcs4/hqdefault.jpg"
+        },
+        {
+                "id": "rwLMVAiUWDs",
+                "title": "NO LOVE – (Slowed and Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:00",
+                "art": "https://img.youtube.com/vi/rwLMVAiUWDs/hqdefault.jpg"
+        },
+        {
+                "id": "4mnrtxd_GhE",
+                "title": "Pov :- Bhojpuri playlist 🔥",
+                "artist": "Anshika",
+                "duration": "11:34",
+                "art": "https://img.youtube.com/vi/4mnrtxd_GhE/hqdefault.jpg"
+        },
+        {
+                "id": "SR5xaw1upVY",
+                "title": "Tere Bina (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:41",
+                "art": "https://img.youtube.com/vi/SR5xaw1upVY/hqdefault.jpg"
+        },
+        {
+                "id": "BAT5NwaMig4",
+                "title": "Heeriye (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:31",
+                "art": "https://img.youtube.com/vi/BAT5NwaMig4/hqdefault.jpg"
+        },
+        {
+                "id": "lnGMsgrhspI",
+                "title": "O Lal Dupatte Wali",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:50",
+                "art": "https://img.youtube.com/vi/lnGMsgrhspI/hqdefault.jpg"
+        },
+        {
+                "id": "QaXKkLXzuo8",
+                "title": "Songs for you to vibe and dance . Hope you love it✨",
+                "artist": "lalalalal?",
+                "duration": "6:26",
+                "art": "https://img.youtube.com/vi/QaXKkLXzuo8/hqdefault.jpg"
+        },
+        {
+                "id": "UQBRTcsClpQ",
+                "title": "A playlist for farewell#best friend ❤️✨",
+                "artist": "Lax",
+                "duration": "6:05",
+                "art": "https://img.youtube.com/vi/UQBRTcsClpQ/hqdefault.jpg"
+        },
+        {
+                "id": "5pJFswC_x50",
+                "title": "VE KAMLEYA - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:35",
+                "art": "https://img.youtube.com/vi/5pJFswC_x50/hqdefault.jpg"
+        },
+        {
+                "id": "FNOMfEtE1UQ",
+                "title": "Itna Bhi Na Chaho Mujhe",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:06",
+                "art": "https://img.youtube.com/vi/FNOMfEtE1UQ/hqdefault.jpg"
+        },
+        {
+                "id": "5YZbx5WPRb8",
+                "title": "Saiyaara - Reprise Female (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:19",
+                "art": "https://img.youtube.com/vi/5YZbx5WPRb8/hqdefault.jpg"
+        },
+        {
+                "id": "E_xJ02G-4S4",
+                "title": "O Meri Laila - Laila Majnu (Lofi Remix)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:31",
+                "art": "https://img.youtube.com/vi/E_xJ02G-4S4/hqdefault.jpg"
+        },
+        {
+                "id": "-ibj0TgN8WU",
+                "title": "Suno Na Suno Na",
+                "artist": "Abhijeet Unplugged",
+                "duration": "5:19",
+                "art": "https://img.youtube.com/vi/-ibj0TgN8WU/hqdefault.jpg"
+        },
+        {
+                "id": "PuxWVAL4E1g",
+                "title": "Waareya (Slowed and Reverb) - Javed-Mohsin, Palak Muchhal, Vibhor Parashar",
+                "artist": "Sukoonistics",
+                "duration": "5:24",
+                "art": "https://img.youtube.com/vi/PuxWVAL4E1g/hqdefault.jpg"
+        },
+        {
+                "id": "PfcwlfCm7fc",
+                "title": "Falak Tak",
+                "artist": "Vishal - Shekhar",
+                "duration": "5:56",
+                "art": "https://img.youtube.com/vi/PfcwlfCm7fc/hqdefault.jpg"
+        },
+        {
+                "id": "H0z31jWUYr4",
+                "title": "Aisi Deewangi",
+                "artist": "Alka Yagnik",
+                "duration": "6:55",
+                "art": "https://img.youtube.com/vi/H0z31jWUYr4/hqdefault.jpg"
+        },
+        {
+                "id": "helmP-W5Ous",
+                "title": "Soch Na Sake (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:15",
+                "art": "https://img.youtube.com/vi/helmP-W5Ous/hqdefault.jpg"
+        },
+        {
+                "id": "UatTUtmTU9w",
+                "title": "Humdard [Slowed+Reverb]",
+                "artist": "fact nation",
+                "duration": "4:29",
+                "art": "https://img.youtube.com/vi/UatTUtmTU9w/hqdefault.jpg"
+        },
+        {
+                "id": "azHbsWaJDUc",
+                "title": "Tum jo Aaye",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:18",
+                "art": "https://img.youtube.com/vi/azHbsWaJDUc/hqdefault.jpg"
+        },
+        {
+                "id": "rmTkVzFMGDI",
+                "title": "LO-FI 2307's NON STOP INSTAGRAM TRENDING LOVE MASHUP - Part 22",
+                "artist": "Lo-fi 2307",
+                "duration": "38:16",
+                "art": "https://img.youtube.com/vi/rmTkVzFMGDI/hqdefault.jpg"
+        },
+        {
+                "id": "kEWMgpKMq8k",
+                "title": "Kaash Tum Mujhse Ek Baar",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:36",
+                "art": "https://img.youtube.com/vi/kEWMgpKMq8k/hqdefault.jpg"
+        },
+        {
+                "id": "Hfq-HlG0jfU",
+                "title": "Kahin Se Tu Aaja",
+                "artist": "Vicky Singh",
+                "duration": "3:45",
+                "art": "https://img.youtube.com/vi/Hfq-HlG0jfU/hqdefault.jpg"
+        },
+        {
+                "id": "ER7RoDTT2_4",
+                "title": "Barsaat Ke Mausam Mein",
+                "artist": "The Kumar Sanu Official",
+                "duration": "8:45",
+                "art": "https://img.youtube.com/vi/ER7RoDTT2_4/hqdefault.jpg"
+        },
+        {
+                "id": "wfjhj9WuF9w",
+                "title": "Dil Ibaadat (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "6:06",
+                "art": "https://img.youtube.com/vi/wfjhj9WuF9w/hqdefault.jpg"
+        },
+        {
+                "id": "yt5-X_U4D8g",
+                "title": "The PropheC - Kina Chir (Slowed and Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:06",
+                "art": "https://img.youtube.com/vi/yt5-X_U4D8g/hqdefault.jpg"
+        },
+        {
+                "id": "jLiHF9aZmow",
+                "title": "HUMDARD - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:35",
+                "art": "https://img.youtube.com/vi/jLiHF9aZmow/hqdefault.jpg"
+        },
+        {
+                "id": "dQjF4GeeoKM",
+                "title": "Teri Mohabbat Ne Dil",
+                "artist": "Alka Yagnik",
+                "duration": "6:16",
+                "art": "https://img.youtube.com/vi/dQjF4GeeoKM/hqdefault.jpg"
+        },
+        {
+                "id": "h6bks-tkoZU",
+                "title": "𝑷𝑶𝑽 : 𝒕𝒉𝒆𝒔𝒆 𝒔𝒐𝒏𝒈𝒔 𝒇𝒐𝒖𝒏𝒅 𝒚𝒐𝒖 𝒘𝒉𝒆𝒏 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅𝒆𝒅 𝒕𝒉𝒆𝒎 𝒎𝒐𝒔𝒕.",
+                "artist": "Aesthetic boomer",
+                "duration": "12:06",
+                "art": "https://img.youtube.com/vi/h6bks-tkoZU/hqdefault.jpg"
+        },
+        {
+                "id": "q2AjA6gCjeE",
+                "title": "Raanjhana [Lofi Remix]",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:15",
+                "art": "https://img.youtube.com/vi/q2AjA6gCjeE/hqdefault.jpg"
+        },
+        {
                 "id": "6sThR9Zt4go",
                 "title": "Dikshant- Aankho Se Batana (Lofi Remake/Remix)",
                 "artist": "Sakeeb Beatz",
@@ -1990,11 +1045,662 @@
                 "art": "https://img.youtube.com/vi/6sThR9Zt4go/hqdefault.jpg"
         },
         {
-                "id": "27egs32oLts",
-                "title": "ISHQ WALA LOVE  (Slowed & Reverbed)",
+                "id": "n5zWC5zptwQ",
+                "title": "Jaana Ve (Slowed + Reverb)",
                 "artist": "Sakeeb Beatz",
-                "duration": "2:12",
-                "art": "https://img.youtube.com/vi/27egs32oLts/hqdefault.jpg"
+                "duration": "6:04",
+                "art": "https://img.youtube.com/vi/n5zWC5zptwQ/hqdefault.jpg"
+        },
+        {
+                "id": "u9fsqRFKI8U",
+                "title": "Zaroori Tha - Slowed & Reverb",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:58",
+                "art": "https://img.youtube.com/vi/u9fsqRFKI8U/hqdefault.jpg"
+        },
+        {
+                "id": "2t0kdcYVECQ",
+                "title": "TUM JO AAYE",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:51",
+                "art": "https://img.youtube.com/vi/2t0kdcYVECQ/hqdefault.jpg"
+        },
+        {
+                "id": "w7AD06Gmt0s",
+                "title": "Tu Hain Toh Main Hoon (Slowed & Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:32",
+                "art": "https://img.youtube.com/vi/w7AD06Gmt0s/hqdefault.jpg"
+        },
+        {
+                "id": "HNdauINck9s",
+                "title": "𝐀𝐋𝐋 𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆 𝐇𝐈𝐍𝐃𝐈 𝐒𝐎𝐍𝐆𝐒 𝟐𝟎𝟐𝟔",
+                "artist": "cozi_music",
+                "duration": "15:09",
+                "art": "https://img.youtube.com/vi/HNdauINck9s/hqdefault.jpg"
+        },
+        {
+                "id": "_pJ4sSf-lH0",
+                "title": "Mere Haath Mein  { Slowed & Reverb }",
+                "artist": "Old goldz",
+                "duration": "5:17",
+                "art": "https://img.youtube.com/vi/_pJ4sSf-lH0/hqdefault.jpg"
+        },
+        {
+                "id": "IKlgbfcU5e0",
+                "title": "Desi song playlist 💗PT.1",
+                "artist": "Melophile Vibes🎵",
+                "duration": "6:32",
+                "art": "https://img.youtube.com/vi/IKlgbfcU5e0/hqdefault.jpg"
+        },
+        {
+                "id": "Xq_80jTNuQ4",
+                "title": "Lo Safar Shuru ho gaya 💖",
+                "artist": "Apna Lofi  Song",
+                "duration": "5:28",
+                "art": "https://img.youtube.com/vi/Xq_80jTNuQ4/hqdefault.jpg"
+        },
+        {
+                "id": "d8tYA8mPmh0",
+                "title": "Woh Aankh Hi Kya",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:02",
+                "art": "https://img.youtube.com/vi/d8tYA8mPmh0/hqdefault.jpg"
+        },
+        {
+                "id": "M-r-qES1GNM",
+                "title": "FOR A REASON - (Slowed + Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:02",
+                "art": "https://img.youtube.com/vi/M-r-qES1GNM/hqdefault.jpg"
+        },
+        {
+                "id": "39_gAExp2OA",
+                "title": "Ishq Hai (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:03",
+                "art": "https://img.youtube.com/vi/39_gAExp2OA/hqdefault.jpg"
+        },
+        {
+                "id": "jygCjaw9jbU",
+                "title": "Aaye Ho Meri Zindagi Mein (Female-)",
+                "artist": "Alka Yagnik",
+                "duration": "6:00",
+                "art": "https://img.youtube.com/vi/jygCjaw9jbU/hqdefault.jpg"
+        },
+        {
+                "id": "jJ9bTwwSGRs",
+                "title": "Mann Mera – (Slowed and Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:22",
+                "art": "https://img.youtube.com/vi/jJ9bTwwSGRs/hqdefault.jpg"
+        },
+        {
+                "id": "T35uru7JCIo",
+                "title": "Akhiyaan",
+                "artist": "Mitraz",
+                "duration": "3:12",
+                "art": "https://img.youtube.com/vi/T35uru7JCIo/hqdefault.jpg"
+        },
+        {
+                "id": "L7bsl-lL5zY",
+                "title": "Atif Aslam-x-Arijit Singh [Lofi Remix]- Rain Remix",
+                "artist": "Acoustic Lofi",
+                "duration": "42:13",
+                "art": "https://img.youtube.com/vi/L7bsl-lL5zY/hqdefault.jpg"
+        },
+        {
+                "id": "gE1iFz7IUrA",
+                "title": "𝐂𝐡𝐚𝐭𝐩𝐚𝐭𝐢 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐜𝐮𝐳 𝐑𝐨𝐧𝐚 𝐝𝐡𝐨𝐧𝐚 𝐢𝐬 𝐰𝐚𝐬𝐭𝐞 𝐨𝐟 𝐭𝐢𝐦𝐞🥂💅🏻",
+                "artist": "Divine Era",
+                "duration": "23:00",
+                "art": "https://img.youtube.com/vi/gE1iFz7IUrA/hqdefault.jpg"
+        },
+        {
+                "id": "I-0NjpHJ7aY",
+                "title": "Admiring You [REMIX]",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:59",
+                "art": "https://img.youtube.com/vi/I-0NjpHJ7aY/hqdefault.jpg"
+        },
+        {
+                "id": "-OaetackX94",
+                "title": "Main Toh Raste Se Ja Raha Tha",
+                "artist": "Anand-Milind",
+                "duration": "5:19",
+                "art": "https://img.youtube.com/vi/-OaetackX94/hqdefault.jpg"
+        },
+        {
+                "id": "KS_HMMPrlXM",
+                "title": "Dekha Tujhe Toh",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:32",
+                "art": "https://img.youtube.com/vi/KS_HMMPrlXM/hqdefault.jpg"
+        },
+        {
+                "id": "xV_QKMRpRwk",
+                "title": "Pyaari Lage (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:06",
+                "art": "https://img.youtube.com/vi/xV_QKMRpRwk/hqdefault.jpg"
+        },
+        {
+                "id": "29JWqpkLv2o",
+                "title": "Rab Kare",
+                "artist": "Udit Narayan",
+                "duration": "4:20",
+                "art": "https://img.youtube.com/vi/29JWqpkLv2o/hqdefault.jpg"
+        },
+        {
+                "id": "JjQnfdjRF3k",
+                "title": "MAAND - Slowed & Reverbed (Aesthetic Edit)",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:21",
+                "art": "https://img.youtube.com/vi/JjQnfdjRF3k/hqdefault.jpg"
+        },
+        {
+                "id": "vORSmGqWJ54",
+                "title": "AFSOS - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:12",
+                "art": "https://img.youtube.com/vi/vORSmGqWJ54/hqdefault.jpg"
+        },
+        {
+                "id": "l71Z9xMejYI",
+                "title": "Tu Cheez Lajwaab(तू चीज लाजवाब): Slowed+Reverb",
+                "artist": "AB Sloverb",
+                "duration": "2:55",
+                "art": "https://img.youtube.com/vi/l71Z9xMejYI/hqdefault.jpg"
+        },
+        {
+                "id": "ooNs2kJ-loM",
+                "title": "Sun Raha Hai (Slowed + Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:57",
+                "art": "https://img.youtube.com/vi/ooNs2kJ-loM/hqdefault.jpg"
+        },
+        {
+                "id": "VUazWIMZHVw",
+                "title": "Aawara Shaam Hai [Slowed+Reverb] Meet Bros Ft & Piyush  Mehroliyaa",
+                "artist": "Lofi Music Channel",
+                "duration": "5:20",
+                "art": "https://img.youtube.com/vi/VUazWIMZHVw/hqdefault.jpg"
+        },
+        {
+                "id": "b6cr8CWaEjU",
+                "title": "MUJHE NEEND NA AAYE",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "6:10",
+                "art": "https://img.youtube.com/vi/b6cr8CWaEjU/hqdefault.jpg"
+        },
+        {
+                "id": "72tvFIR4qOs",
+                "title": "Yaadon Ki Baaraat With Lyrics",
+                "artist": "Saregama Music",
+                "duration": "4:38",
+                "art": "https://img.youtube.com/vi/72tvFIR4qOs/hqdefault.jpg"
+        },
+        {
+                "id": "-1CwZ-U7UEs",
+                "title": "1 Hour Of Pure Lofi",
+                "artist": "One lofi",
+                "duration": "1:03:55",
+                "art": "https://img.youtube.com/vi/-1CwZ-U7UEs/hqdefault.jpg"
+        },
+        {
+                "id": "Fq_TdLdFCrM",
+                "title": "TERE LIYE - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:29",
+                "art": "https://img.youtube.com/vi/Fq_TdLdFCrM/hqdefault.jpg"
+        },
+        {
+                "id": "9SNVIyeiWzo",
+                "title": "EK MULAQAT - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:48",
+                "art": "https://img.youtube.com/vi/9SNVIyeiWzo/hqdefault.jpg"
+        },
+        {
+                "id": "FGUzNoJok_g",
+                "title": "Dekha Hai Pehli Baar",
+                "artist": "Alka Yagnik",
+                "duration": "6:13",
+                "art": "https://img.youtube.com/vi/FGUzNoJok_g/hqdefault.jpg"
+        },
+        {
+                "id": "LxPeBJU3LHg",
+                "title": "Tukur Tukur Dekhte Ho Kya",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:12",
+                "art": "https://img.youtube.com/vi/LxPeBJU3LHg/hqdefault.jpg"
+        },
+        {
+                "id": "u57uOq4KRP4",
+                "title": "DEKHA HI NAHI - 8D AUDIO (Slowed + Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:26",
+                "art": "https://img.youtube.com/vi/u57uOq4KRP4/hqdefault.jpg"
+        },
+        {
+                "id": "Qcdk7FvmDgo",
+                "title": "HAR DIL JO PYAR KAREGA",
+                "artist": "Udit Narayan",
+                "duration": "6:02",
+                "art": "https://img.youtube.com/vi/Qcdk7FvmDgo/hqdefault.jpg"
+        },
+        {
+                "id": "i6Y-KWesCcs",
+                "title": "Saat Samundar - reprise version",
+                "artist": "𝐈𝐭'𝐬 𝕥𝕚𝕥𝕙𝕚",
+                "duration": "3:43",
+                "art": "https://img.youtube.com/vi/i6Y-KWesCcs/hqdefault.jpg"
+        },
+        {
+                "id": "ajYgbQWpBUU",
+                "title": "Mujhse Shaadi Karogi",
+                "artist": "Sonu Nigam",
+                "duration": "5:26",
+                "art": "https://img.youtube.com/vi/ajYgbQWpBUU/hqdefault.jpg"
+        },
+        {
+                "id": "c8TGh60bBO4",
+                "title": "MAI RANG SHARBATON KA - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:00",
+                "art": "https://img.youtube.com/vi/c8TGh60bBO4/hqdefault.jpg"
+        },
+        {
+                "id": "0OToWDsqU04",
+                "title": "Dafli Wale Dafli Baja",
+                "artist": "Lata Mangeshkar",
+                "duration": "5:16",
+                "art": "https://img.youtube.com/vi/0OToWDsqU04/hqdefault.jpg"
+        },
+        {
+                "id": "eUBi_0f7P8I",
+                "title": "Abeer Arora-Kangna tera nee (slowed + reverb)",
+                "artist": "Pradabae",
+                "duration": "4:06",
+                "art": "https://img.youtube.com/vi/eUBi_0f7P8I/hqdefault.jpg"
+        },
+        {
+                "id": "3FhXwFGVaDE",
+                "title": "💋 A Chatpati Playlist Only For Chatpata People 😋✨",
+                "artist": "Dome Dispatches",
+                "duration": "7:30",
+                "art": "https://img.youtube.com/vi/3FhXwFGVaDE/hqdefault.jpg"
+        },
+        {
+                "id": "cVT3BKkPCc4",
+                "title": "Is Tarah Aashiqui Ka - Kumar Sanu",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:23",
+                "art": "https://img.youtube.com/vi/cVT3BKkPCc4/hqdefault.jpg"
+        },
+        {
+                "id": "UTKmFTNTaU8",
+                "title": "Is Pyar Se Meri Taraf Na Dekho (Male)",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:18",
+                "art": "https://img.youtube.com/vi/UTKmFTNTaU8/hqdefault.jpg"
+        },
+        {
+                "id": "wkxV_w9Wjfo",
+                "title": "Hum Teri Mohabbat Me",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:29",
+                "art": "https://img.youtube.com/vi/wkxV_w9Wjfo/hqdefault.jpg"
+        },
+        {
+                "id": "xPJO10DF4iY",
+                "title": "Naah Lofi Version - Jass Manak",
+                "artist": "Geet MP3",
+                "duration": "3:25",
+                "art": "https://img.youtube.com/vi/xPJO10DF4iY/hqdefault.jpg"
+        },
+        {
+                "id": "vmzbVgLShEw",
+                "title": "Ladki Badi Anjani Hai",
+                "artist": "Jatin Lalit",
+                "duration": "6:22",
+                "art": "https://img.youtube.com/vi/vmzbVgLShEw/hqdefault.jpg"
+        },
+        {
+                "id": "7Ny77gTsWGk",
+                "title": "Hum Yaar Hai Tumhare",
+                "artist": "Udit Narayan",
+                "duration": "7:15",
+                "art": "https://img.youtube.com/vi/7Ny77gTsWGk/hqdefault.jpg"
+        },
+        {
+                "id": "bovpxyXpY5o",
+                "title": "Chalte Chalte",
+                "artist": "Abhijeet Unplugged",
+                "duration": "5:26",
+                "art": "https://img.youtube.com/vi/bovpxyXpY5o/hqdefault.jpg"
+        },
+        {
+                "id": "zdvqXqhkzWE",
+                "title": "Waalian  (Slowed+Reverb) - Harnoor",
+                "artist": "Srk Lofi World",
+                "duration": "5:02",
+                "art": "https://img.youtube.com/vi/zdvqXqhkzWE/hqdefault.jpg"
+        },
+        {
+                "id": "72Zr-n6W2Mo",
+                "title": "This playlist will definitely give you vibe..🫠✨",
+                "artist": "☆Neon_haZe☆ﾟ⁠.⁠*⁠･⁠｡ﾟ",
+                "duration": "5:26",
+                "art": "https://img.youtube.com/vi/72Zr-n6W2Mo/hqdefault.jpg"
+        },
+        {
+                "id": "oHbKvujkqms",
+                "title": "Sanam Teri Kasam - (Slowed and Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:04",
+                "art": "https://img.youtube.com/vi/oHbKvujkqms/hqdefault.jpg"
+        },
+        {
+                "id": "kp00LrbcRd4",
+                "title": "Aye Dil Laya Hai Bahaar",
+                "artist": "Kavita Krishnamurthy",
+                "duration": "4:28",
+                "art": "https://img.youtube.com/vi/kp00LrbcRd4/hqdefault.jpg"
+        },
+        {
+                "id": "vrvR3iViJGU",
+                "title": "Hai Mera Dil",
+                "artist": "Udit Narayan",
+                "duration": "4:11",
+                "art": "https://img.youtube.com/vi/vrvR3iViJGU/hqdefault.jpg"
+        },
+        {
+                "id": "3e3o-9ZOx-Q",
+                "title": "Mujhe Neend Na Aaye",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "6:14",
+                "art": "https://img.youtube.com/vi/3e3o-9ZOx-Q/hqdefault.jpg"
+        },
+        {
+                "id": "VFRH8YWo3aw",
+                "title": "Sab Tera (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:14",
+                "art": "https://img.youtube.com/vi/VFRH8YWo3aw/hqdefault.jpg"
+        },
+        {
+                "id": "fLZ-SRvkk_M",
+                "title": "Hasi - ( Female Cover)",
+                "artist": "Ear Candy",
+                "duration": "4:19",
+                "art": "https://img.youtube.com/vi/fLZ-SRvkk_M/hqdefault.jpg"
+        },
+        {
+                "id": "HixgP5OthKA",
+                "title": "Rabba (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:17",
+                "art": "https://img.youtube.com/vi/HixgP5OthKA/hqdefault.jpg"
+        },
+        {
+                "id": "ZsNp0WDMIv8",
+                "title": "JEENA JEENA - Slowed and Reverb",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:46",
+                "art": "https://img.youtube.com/vi/ZsNp0WDMIv8/hqdefault.jpg"
+        },
+        {
+                "id": "Xj9RXNcK5Vo",
+                "title": "Muskurane – (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:20",
+                "art": "https://img.youtube.com/vi/Xj9RXNcK5Vo/hqdefault.jpg"
+        },
+        {
+                "id": "eC5riDNidOg",
+                "title": "Sochenge Tumhe Pyar",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:03",
+                "art": "https://img.youtube.com/vi/eC5riDNidOg/hqdefault.jpg"
+        },
+        {
+                "id": "5XlMEITbghM",
+                "title": "NA MILO KAHIN PYAR",
+                "artist": "Sonu Nigam",
+                "duration": "6:43",
+                "art": "https://img.youtube.com/vi/5XlMEITbghM/hqdefault.jpg"
+        },
+        {
+                "id": "uugO0vlmUi8",
+                "title": "Mera Mann",
+                "artist": "Udit Narayan",
+                "duration": "4:36",
+                "art": "https://img.youtube.com/vi/uugO0vlmUi8/hqdefault.jpg"
+        },
+        {
+                "id": "jPjaPWnVxxE",
+                "title": "Suniyan Suniyan [Official Audio] - (Lofi Remix)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:36",
+                "art": "https://img.youtube.com/vi/jPjaPWnVxxE/hqdefault.jpg"
+        },
+        {
+                "id": "tq8ERAFkwZs",
+                "title": "{(FREE) Juice world type beat \"999\"",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:01",
+                "art": "https://img.youtube.com/vi/tq8ERAFkwZs/hqdefault.jpg"
+        },
+        {
+                "id": "fopjq6mbSVU",
+                "title": "RAATAAN LAMBIYAN",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:50",
+                "art": "https://img.youtube.com/vi/fopjq6mbSVU/hqdefault.jpg"
+        },
+        {
+                "id": "5SGxpmPt9j0",
+                "title": "Kahin Mujhe Pyar Hua Toh Nahin",
+                "artist": "Alka Yagnik",
+                "duration": "7:04",
+                "art": "https://img.youtube.com/vi/5SGxpmPt9j0/hqdefault.jpg"
+        },
+        {
+                "id": "bNh5xAx3OxU",
+                "title": "HUSN x JO TUM MERE HO [REMIX]",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:25",
+                "art": "https://img.youtube.com/vi/bNh5xAx3OxU/hqdefault.jpg"
+        },
+        {
+                "id": "d4jnoSCmI2g",
+                "title": "TU HI HAQEEQAT- (Slowed and Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:45",
+                "art": "https://img.youtube.com/vi/d4jnoSCmI2g/hqdefault.jpg"
+        },
+        {
+                "id": "98MGT9JStKk",
+                "title": "Tu Pyar Hai Kisi Aur Ka",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "6:49",
+                "art": "https://img.youtube.com/vi/98MGT9JStKk/hqdefault.jpg"
+        },
+        {
+                "id": "lT6lXIV50L4",
+                "title": "SAHIBA AAYE GHAR KAHE NA - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:53",
+                "art": "https://img.youtube.com/vi/lT6lXIV50L4/hqdefault.jpg"
+        },
+        {
+                "id": "90KnE_qjUYI",
+                "title": "Chale Aana - [ Slowed + Reverb ] , - Armaan Malik",
+                "artist": "Ear Candy",
+                "duration": "5:18",
+                "art": "https://img.youtube.com/vi/90KnE_qjUYI/hqdefault.jpg"
+        },
+        {
+                "id": "Bx_Ie97I3zg",
+                "title": "Chalte Chalte",
+                "artist": "Udbhav",
+                "duration": "7:38",
+                "art": "https://img.youtube.com/vi/Bx_Ie97I3zg/hqdefault.jpg"
+        },
+        {
+                "id": "t77Wo3NVy7E",
+                "title": "Zaroori Tha - Slowed & Reverb",
+                "artist": "Sakeeb Beatz",
+                "duration": "0:57",
+                "art": "https://img.youtube.com/vi/t77Wo3NVy7E/hqdefault.jpg"
+        },
+        {
+                "id": "7SlNjfPskbQ",
+                "title": "Dil Ko Karar Aaya Lo-Fi - Naresh Narayan",
+                "artist": "Naresh Narayan",
+                "duration": "4:34",
+                "art": "https://img.youtube.com/vi/7SlNjfPskbQ/hqdefault.jpg"
+        },
+        {
+                "id": "1wSiT8ojX6o",
+                "title": "Achchi Lagti Ho",
+                "artist": "Udit Narayan",
+                "duration": "6:19",
+                "art": "https://img.youtube.com/vi/1wSiT8ojX6o/hqdefault.jpg"
+        },
+        {
+                "id": "GUexns55rIM",
+                "title": "MAAND - Slowed & Reverbed  (Aesthetic Edit)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:05",
+                "art": "https://img.youtube.com/vi/GUexns55rIM/hqdefault.jpg"
+        },
+        {
+                "id": "QVrv7JTBptA",
+                "title": "Ghoongte Mein Chanda",
+                "artist": "Udit Narayan",
+                "duration": "6:12",
+                "art": "https://img.youtube.com/vi/QVrv7JTBptA/hqdefault.jpg"
+        },
+        {
+                "id": "FulmpC4Powc",
+                "title": "Pehle Bhi Main (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:58",
+                "art": "https://img.youtube.com/vi/FulmpC4Powc/hqdefault.jpg"
+        },
+        {
+                "id": "LxkpvK3J46E",
+                "title": "Mera Chand Mujhe Aaya Hai Nazar",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:51",
+                "art": "https://img.youtube.com/vi/LxkpvK3J46E/hqdefault.jpg"
+        },
+        {
+                "id": "bT9XMKsxmHw",
+                "title": "𝐃𝐞𝐬𝐢 𝐬𝐨𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐦𝐚𝐠𝐢𝐧𝐚𝐫𝐲 𝐬𝐜𝐞𝐧𝐞𝐬 𝐰𝐢𝐭𝐡 𝐮𝐫 𝐜𝐫𝐮𝐬𝐡..😭🌸..",
+                "artist": "♡𝐈𝐭𝐳 𝐑𝐨𝐬𝐞♡",
+                "duration": "3:33",
+                "art": "https://img.youtube.com/vi/bT9XMKsxmHw/hqdefault.jpg"
+        },
+        {
+                "id": "IBPsBCgIAKY",
+                "title": "Saiyaara - Reprise Female(Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:45",
+                "art": "https://img.youtube.com/vi/IBPsBCgIAKY/hqdefault.jpg"
+        },
+        {
+                "id": "8z68e4tuxik",
+                "title": "Dil Mera Tod Diya",
+                "artist": "Alka Yagnik",
+                "duration": "5:08",
+                "art": "https://img.youtube.com/vi/8z68e4tuxik/hqdefault.jpg"
+        },
+        {
+                "id": "MJ7nm0fgC2s",
+                "title": "DHUN - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:24",
+                "art": "https://img.youtube.com/vi/MJ7nm0fgC2s/hqdefault.jpg"
+        },
+        {
+                "id": "52MTK4354ck",
+                "title": "Kisi Din Banoongi Main",
+                "artist": "Alka Yagnik",
+                "duration": "7:18",
+                "art": "https://img.youtube.com/vi/52MTK4354ck/hqdefault.jpg"
+        },
+        {
+                "id": "QCelXisFtFY",
+                "title": "Mohabbat Ki Nahin Jaati",
+                "artist": "Udit Narayan",
+                "duration": "5:51",
+                "art": "https://img.youtube.com/vi/QCelXisFtFY/hqdefault.jpg"
+        },
+        {
+                "id": "7J7hJVTzhQM",
+                "title": "Tu Hi Mera (Lofi Version)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:53",
+                "art": "https://img.youtube.com/vi/7J7hJVTzhQM/hqdefault.jpg"
+        },
+        {
+                "id": "RcXL8IDnzyQ",
+                "title": "Kahin Mujhe Pyar Hua Toh Nahin ()",
+                "artist": "Alka Yagnik",
+                "duration": "6:55",
+                "art": "https://img.youtube.com/vi/RcXL8IDnzyQ/hqdefault.jpg"
+        },
+        {
+                "id": "MOpFDe87RBM",
+                "title": "pov: you're blushing while listening to this 🎧✨",
+                "artist": "NIKKU",
+                "duration": "13:22",
+                "art": "https://img.youtube.com/vi/MOpFDe87RBM/hqdefault.jpg"
+        },
+        {
+                "id": "3RlPd2-SNy4",
+                "title": "Ve Kamleya [Lofi Version]",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:21",
+                "art": "https://img.youtube.com/vi/3RlPd2-SNy4/hqdefault.jpg"
+        },
+        {
+                "id": "CxeZNRr88HA",
+                "title": "Jaam Woh Hai Jo Bhar Ke",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:08",
+                "art": "https://img.youtube.com/vi/CxeZNRr88HA/hqdefault.jpg"
+        },
+        {
+                "id": "NWCG3MUDc0A",
+                "title": "Aye Mere Humsafar",
+                "artist": "Udit Narayan",
+                "duration": "5:56",
+                "art": "https://img.youtube.com/vi/NWCG3MUDc0A/hqdefault.jpg"
+        },
+        {
+                "id": "TzFu8eCkEpY",
+                "title": "Bairan - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:56",
+                "art": "https://img.youtube.com/vi/TzFu8eCkEpY/hqdefault.jpg"
+        },
+        {
+                "id": "Gp_VnaYoMW4",
+                "title": "Ghoonghat Ki Aadh Se",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:17",
+                "art": "https://img.youtube.com/vi/Gp_VnaYoMW4/hqdefault.jpg"
+        },
+        {
+                "id": "5tQ0XlggnXk",
+                "title": "RANJHAN - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:03",
+                "art": "https://img.youtube.com/vi/5tQ0XlggnXk/hqdefault.jpg"
         },
         {
                 "id": "Fm25KmjJ3nE",
@@ -2004,11 +1710,305 @@
                 "art": "https://img.youtube.com/vi/Fm25KmjJ3nE/hqdefault.jpg"
         },
         {
-                "id": "_pJ4sSf-lH0",
-                "title": "Mere Haath Mein  { Slowed & Reverb }",
-                "artist": "Old goldz",
-                "duration": "5:17",
-                "art": "https://img.youtube.com/vi/_pJ4sSf-lH0/hqdefault.jpg"
+                "id": "lNzyH6gtc8U",
+                "title": "Ranjhana - Kalam Ink Ft. Harjas (Drums Version)",
+                "artist": "Sakeeb Beatz",
+                "duration": "4:18",
+                "art": "https://img.youtube.com/vi/lNzyH6gtc8U/hqdefault.jpg"
+        },
+        {
+                "id": "t9UlaL-3sHA",
+                "title": "Thoda thoda pyaar (slowed+reverb)",
+                "artist": "Pradabae",
+                "duration": "4:30",
+                "art": "https://img.youtube.com/vi/t9UlaL-3sHA/hqdefault.jpg"
+        },
+        {
+                "id": "SAae0N930jI",
+                "title": "O Bedardeya (Lofi Remake)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:06",
+                "art": "https://img.youtube.com/vi/SAae0N930jI/hqdefault.jpg"
+        },
+        {
+                "id": "65MCSWbMN8c",
+                "title": "Ye Kaali Kaali Aankhen",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:18",
+                "art": "https://img.youtube.com/vi/65MCSWbMN8c/hqdefault.jpg"
+        },
+        {
+                "id": "KosXXrhEmgA",
+                "title": "AADAT - (Slowed and Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:57",
+                "art": "https://img.youtube.com/vi/KosXXrhEmgA/hqdefault.jpg"
+        },
+        {
+                "id": "t-NST0awBw8",
+                "title": "Saibo - (Lofi Flip) VIBIE",
+                "artist": "VIBIE",
+                "duration": "2:30",
+                "art": "https://img.youtube.com/vi/t-NST0awBw8/hqdefault.jpg"
+        },
+        {
+                "id": "a9ZkoT9bmxA",
+                "title": "SUN RAHA HAI NA TU - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:05",
+                "art": "https://img.youtube.com/vi/a9ZkoT9bmxA/hqdefault.jpg"
+        },
+        {
+                "id": "kq0BmZ9xJps",
+                "title": "Ankh Hai Bhari Bhari (Male Version)",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:17",
+                "art": "https://img.youtube.com/vi/kq0BmZ9xJps/hqdefault.jpg"
+        },
+        {
+                "id": "WluPT_c7pw8",
+                "title": "Mai Rang Sharbaton Ka (Lofi Remix)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:23",
+                "art": "https://img.youtube.com/vi/WluPT_c7pw8/hqdefault.jpg"
+        },
+        {
+                "id": "XEggdtDp_4c",
+                "title": "Bahut Pyar Karte Hai (Male Version)",
+                "artist": "SP Balasubrahmanyam (SpBaluofficial)",
+                "duration": "3:05",
+                "art": "https://img.youtube.com/vi/XEggdtDp_4c/hqdefault.jpg"
+        },
+        {
+                "id": "h3sv2ag4HNQ",
+                "title": "Midnight vibes #trendingsong #astheticsong #song#lofisong #mashup",
+                "artist": "A3's Asthetic",
+                "duration": "23:39",
+                "art": "https://img.youtube.com/vi/h3sv2ag4HNQ/hqdefault.jpg"
+        },
+        {
+                "id": "27egs32oLts",
+                "title": "ISHQ WALA LOVE  (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:12",
+                "art": "https://img.youtube.com/vi/27egs32oLts/hqdefault.jpg"
+        },
+        {
+                "id": "lrUgzcgbbro",
+                "title": "𝑱𝒊𝒕𝒏𝒊_𝑫𝒂𝒇𝒂( 𝒔𝒍𝒐𝒘𝒆𝒅+𝒓𝒆𝒗𝒆𝒓𝒃𝒆𝒅 ) -𝒀𝒂𝒔𝒔𝒆𝒓 𝑫𝒆𝒔𝒂𝒊 //𝒍𝒐𝒇𝒊 𝒔𝒐𝒏𝒈 #trending #love",
+                "artist": "𝐀𝐃𝐈𝐗𝐍07",
+                "duration": "3:45",
+                "art": "https://img.youtube.com/vi/lrUgzcgbbro/hqdefault.jpg"
+        },
+        {
+                "id": "LHRC5inoYhU",
+                "title": "Top 5 best English Bollywood songs - original music no copyrighted - music artist ayush songs",
+                "artist": "Ayush Songs",
+                "duration": "14:36",
+                "art": "https://img.youtube.com/vi/LHRC5inoYhU/hqdefault.jpg"
+        },
+        {
+                "id": "yyMoXlT2-5U",
+                "title": "𝐀𝐥𝐥 𝐓𝐫𝐞𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐧𝐠𝐬 𝐨𝐟 𝟐𝟎𝟐𝟔",
+                "artist": "Aesthetic boomer",
+                "duration": "11:50",
+                "art": "https://img.youtube.com/vi/yyMoXlT2-5U/hqdefault.jpg"
+        },
+        {
+                "id": "PH852EyVzO4",
+                "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
+                "artist": "The Kumar Sanu Official",
+                "duration": "4:49",
+                "art": "https://img.youtube.com/vi/PH852EyVzO4/hqdefault.jpg"
+        },
+        {
+                "id": "BP0FIvvgrAk",
+                "title": "Kabhi Shaam Dhale Female Cover",
+                "artist": "Deepshikhaa Raina",
+                "duration": "3:52",
+                "art": "https://img.youtube.com/vi/BP0FIvvgrAk/hqdefault.jpg"
+        },
+        {
+                "id": "l41afUOGS0I",
+                "title": "Mile Tum Se Bichhad Ke Hum",
+                "artist": "The Kumar Sanu Official",
+                "duration": "7:01",
+                "art": "https://img.youtube.com/vi/l41afUOGS0I/hqdefault.jpg"
+        },
+        {
+                "id": "OueTzPqg4ZU",
+                "title": "Finding Her - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:21",
+                "art": "https://img.youtube.com/vi/OueTzPqg4ZU/hqdefault.jpg"
+        },
+        {
+                "id": "xfB3q_KZxy8",
+                "title": "Kaun Tujhe - Palak Muchhal",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:34",
+                "art": "https://img.youtube.com/vi/xfB3q_KZxy8/hqdefault.jpg"
+        },
+        {
+                "id": "oc38CxMaoRw",
+                "title": "Teri Chunnariya",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:57",
+                "art": "https://img.youtube.com/vi/oc38CxMaoRw/hqdefault.jpg"
+        },
+        {
+                "id": "idCpl6LfnKo",
+                "title": "A playlist of nusrat fateh ali khan all popular qawaali's 💝💘",
+                "artist": "preet_slaylist",
+                "duration": "9:15",
+                "art": "https://img.youtube.com/vi/idCpl6LfnKo/hqdefault.jpg"
+        },
+        {
+                "id": "25Pl981Tbzk",
+                "title": "Lo-Fi Mashup Nonstop",
+                "artist": "727  Songs",
+                "duration": "33:43",
+                "art": "https://img.youtube.com/vi/25Pl981Tbzk/hqdefault.jpg"
+        },
+        {
+                "id": "ar_m3IbjS4c",
+                "title": "TUMSE MILNA",
+                "artist": "Udit Narayan",
+                "duration": "4:39",
+                "art": "https://img.youtube.com/vi/ar_m3IbjS4c/hqdefault.jpg"
+        },
+        {
+                "id": "lvZKr1eXRJc",
+                "title": "Sang Hoon Tere - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "2:39",
+                "art": "https://img.youtube.com/vi/lvZKr1eXRJc/hqdefault.jpg"
+        },
+        {
+                "id": "pH7BFtW7jRI",
+                "title": "Phool Maangu Na Bahaar Maangu",
+                "artist": "Alka Yagnik",
+                "duration": "5:21",
+                "art": "https://img.youtube.com/vi/pH7BFtW7jRI/hqdefault.jpg"
+        },
+        {
+                "id": "8dklFpUa9jU",
+                "title": "Tu Meri Zindagi Hai",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "4:43",
+                "art": "https://img.youtube.com/vi/8dklFpUa9jU/hqdefault.jpg"
+        },
+        {
+                "id": "HOAF8vcxXe4",
+                "title": "Paas Woh Aane Lage",
+                "artist": "The Kumar Sanu Official",
+                "duration": "6:13",
+                "art": "https://img.youtube.com/vi/HOAF8vcxXe4/hqdefault.jpg"
+        },
+        {
+                "id": "H0yLhDLJWuI",
+                "title": "A CHATPATI PLAYLIST FOR CHATPATE PEOPLE 💅😜 #playlist #song #collab",
+                "artist": "𐙚 𝒦𝒽𝓊𝓈𝒽𝒷𝓊𝓊",
+                "duration": "11:14",
+                "art": "https://img.youtube.com/vi/H0yLhDLJWuI/hqdefault.jpg"
+        },
+        {
+                "id": "t06UiXd5WdQ",
+                "title": "POV:\"𝐇𝐚𝐫𝐲𝐚𝐧𝐯𝐢 𝐁𝐚𝐧𝐠𝐞𝐫𝐬 𝐭𝐨 𝐕𝐢𝐛𝐞\"💅",
+                "artist": "𝓛𝓲𝓵𝔂:)",
+                "duration": "7:39",
+                "art": "https://img.youtube.com/vi/t06UiXd5WdQ/hqdefault.jpg"
+        },
+        {
+                "id": "-3QNQj_jmts",
+                "title": "POV: desi songs which will make you dance at 3am! (hindi playlist)✨ #100k #fyp #foryou #recommended",
+                "artist": "_.𝐞𝐝𝐢𝐭𝐢𝐧𝐠._.𝐞𝐫𝐚._",
+                "duration": "9:07",
+                "art": "https://img.youtube.com/vi/-3QNQj_jmts/hqdefault.jpg"
+        },
+        {
+                "id": "U9GbKXqxr0E",
+                "title": "O Jaana Na Jaana - Part 1",
+                "artist": "The Kumar Sanu Official",
+                "duration": "4:24",
+                "art": "https://img.youtube.com/vi/U9GbKXqxr0E/hqdefault.jpg"
+        },
+        {
+                "id": "WAe4nOOy3l4",
+                "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
+                "artist": "Anuradha Paudwal Official",
+                "duration": "5:28",
+                "art": "https://img.youtube.com/vi/WAe4nOOy3l4/hqdefault.jpg"
+        },
+        {
+                "id": "TgQQky-AXI8",
+                "title": "Bhojpuri Songs 🫶🏻 That'll Make You Dance At 3am 🎀💓",
+                "artist": "𝕾𝕽 𝗩𝗶𝗯𝗿𝗼𝗻 ᴹᶦˣ •  3M views",
+                "duration": "15:35",
+                "art": "https://img.youtube.com/vi/TgQQky-AXI8/hqdefault.jpg"
+        },
+        {
+                "id": "BZ77Xs6nDWs",
+                "title": "Dil Sambhal Jaa Zara",
+                "artist": "Sakeeb Beatz",
+                "duration": "5:43",
+                "art": "https://img.youtube.com/vi/BZ77Xs6nDWs/hqdefault.jpg"
+        },
+        {
+                "id": "a5DDSlBaHFY",
+                "title": "AGAR TUM SAATH HO",
+                "artist": "Sakeeb Beatz",
+                "duration": "3:26",
+                "art": "https://img.youtube.com/vi/a5DDSlBaHFY/hqdefault.jpg"
+        },
+        {
+                "id": "hWGSVuTCawQ",
+                "title": "Kinna Chir [Official Audio]-([Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:48",
+                "art": "https://img.youtube.com/vi/hWGSVuTCawQ/hqdefault.jpg"
+        },
+        {
+                "id": "mPZ1613Dv-g",
+                "title": "Dhire Dhire Aap Mere",
+                "artist": "Udit Narayan",
+                "duration": "5:44",
+                "art": "https://img.youtube.com/vi/mPZ1613Dv-g/hqdefault.jpg"
+        },
+        {
+                "id": "OPGzbJ0Mb1U",
+                "title": "GALLIYAN - 8D AUDIO (Slowed + Reverb)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:40",
+                "art": "https://img.youtube.com/vi/OPGzbJ0Mb1U/hqdefault.jpg"
+        },
+        {
+                "id": "8hy7pg8wB-c",
+                "title": "Kitna Haseen Chehra",
+                "artist": "The Kumar Sanu Official",
+                "duration": "5:54",
+                "art": "https://img.youtube.com/vi/8hy7pg8wB-c/hqdefault.jpg"
+        },
+        {
+                "id": "DU4eZrGg6Yg",
+                "title": "PHIR KABHI - Arijit Singh (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:37",
+                "art": "https://img.youtube.com/vi/DU4eZrGg6Yg/hqdefault.jpg"
+        },
+        {
+                "id": "3A_zsTXhL-A",
+                "title": "SANAM RE - (Slowed & Reverbed)",
+                "artist": "Sakeeb Beatz",
+                "duration": "1:31",
+                "art": "https://img.youtube.com/vi/3A_zsTXhL-A/hqdefault.jpg"
+        },
+        {
+                "id": "4wy0HfJnSLE",
+                "title": "Butterfly (Slowed and Reverb)",
+                "artist": "Various Artists",
+                "duration": "2:58",
+                "art": "https://img.youtube.com/vi/4wy0HfJnSLE/hqdefault.jpg"
         }
 ]
         },
@@ -3568,7 +3568,7 @@
                 "id": "-1CwZ-U7UEs",
                 "title": "1 Hour Of Pure Lofi",
                 "artist": "One lofi",
-                "duration": "63:55",
+                "duration": "1:03:55",
                 "art": "https://img.youtube.com/vi/-1CwZ-U7UEs/hqdefault.jpg"
         },
         {
@@ -4078,13 +4078,7 @@
     let repeatMode = 'off';
     let isRainMode = false;
     let progressTimer = null;
-
-    // Web Audio Synthesizer & SFX
-    let audioContext = null;
-    let vinylGain = null;
-    let rainGain = null;
-    let tapriGain = null;
-    let windGain = null;
+    let isDraggingProgress = false;
 
     /* ==========================================================================
        DOM Elements
@@ -4121,25 +4115,6 @@
 
     const liveListenersCount = document.getElementById('live-listeners-count');
     const digitalClock = document.getElementById('digital-clock');
-
-    const chaiSipBtn = document.getElementById('chai-sip-btn');
-    const hornBtn = document.getElementById('horn-btn');
-
-    const ambienceMixerBtn = document.getElementById('ambience-mixer-btn');
-    const ambienceModal = document.getElementById('ambience-modal');
-    const closeAmbienceModal = document.getElementById('close-ambience-modal');
-    const doneAmbienceBtn = document.getElementById('done-ambience-btn');
-    const resetAmbienceBtn = document.getElementById('reset-ambience-btn');
-
-    const ambRainSlider = document.getElementById('amb-rain-slider');
-    const ambVinylSlider = document.getElementById('amb-vinyl-slider');
-    const ambTapriSlider = document.getElementById('amb-tapri-slider');
-    const ambWindSlider = document.getElementById('amb-wind-slider');
-
-    const ambRainVal = document.getElementById('amb-rain-val');
-    const ambVinylVal = document.getElementById('amb-vinyl-val');
-    const ambTapriVal = document.getElementById('amb-tapri-val');
-    const ambWindVal = document.getElementById('amb-wind-val');
 
     const queueToggleBtn = document.getElementById('queue-toggle-btn');
     const playlistDrawer = document.getElementById('playlist-drawer');
@@ -4315,9 +4290,10 @@
     function startProgressTracker() {
         stopProgressTracker();
         progressTimer = setInterval(() => {
+            if (isDraggingProgress) return;
             if (!ytPlayer || !ytPlayer.getCurrentTime) return;
             const current = ytPlayer.getCurrentTime();
-            const total = ytPlayer.getDuration();
+            const total = ytPlayer.getDuration ? ytPlayer.getDuration() : 0;
 
             if (total > 0) {
                 const percent = (current / total) * 100;
@@ -4333,6 +4309,35 @@
         if (progressTimer) {
             clearInterval(progressTimer);
             progressTimer = null;
+        }
+    }
+
+    function updateProgressFromEvent(e) {
+        if (!progressContainer || !progressBarFill || !progressScrubber) return;
+        const rect = progressContainer.getBoundingClientRect();
+        const clientX = (e.clientX !== undefined) ? e.clientX : (e.touches && e.touches[0] ? e.touches[0].clientX : 0);
+        const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+
+        progressBarFill.style.width = `${percent * 100}%`;
+        progressScrubber.style.left = `${percent * 100}%`;
+
+        if (ytPlayer && ytPlayer.getDuration) {
+            const duration = ytPlayer.getDuration();
+            if (duration > 0 && currentTimeEl) {
+                currentTimeEl.textContent = formatTime(percent * duration);
+            }
+        }
+        return percent;
+    }
+
+    function applySeekFromEvent(e) {
+        if (!ytPlayer || !ytPlayer.seekTo) return;
+        const rect = progressContainer.getBoundingClientRect();
+        const clientX = (e.clientX !== undefined) ? e.clientX : (e.changedTouches && e.changedTouches[0] ? e.changedTouches[0].clientX : 0);
+        const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+        const duration = ytPlayer.getDuration ? ytPlayer.getDuration() : 0;
+        if (duration > 0) {
+            ytPlayer.seekTo(percent * duration, true);
         }
     }
 
@@ -4354,8 +4359,6 @@
     }
 
     function togglePlayPause() {
-        getAudioContext();
-
         if (!ytReady || !ytPlayer) {
             const station = PLAYLIST_STATIONS[currentStationKey];
             if (station && station.tracks[currentTrackIdx]) {
@@ -4412,144 +4415,26 @@
 
     function formatTime(seconds) {
         if (isNaN(seconds) || seconds < 0) return '0:00';
-        const mins = Math.floor(seconds / 60);
+        const hrs = Math.floor(seconds / 3600);
+        const mins = Math.floor((seconds % 3600) / 60);
         const secs = Math.floor(seconds % 60);
-        return `${mins}:${secs < 10 ? '0' : ''}${secs}`;
-    }
+        const formattedSecs = secs < 10 ? '0' + secs : secs;
 
-    /* ==========================================================================
-       Web Audio API Ambience Mixer (Silent by default)
-       ========================================================================== */
-    function getAudioContext() {
-        if (!audioContext) {
-            const AudioCtx = window.AudioContext || window.webkitAudioContext;
-            audioContext = new AudioCtx();
-            initAmbienceGenerators();
+        if (hrs > 0) {
+            const formattedMins = mins < 10 ? '0' + mins : mins;
+            return `${hrs}:${formattedMins}:${formattedSecs}`;
+        } else {
+            return `${mins}:${formattedSecs}`;
         }
-        if (audioContext.state === 'suspended') {
-            audioContext.resume();
-        }
-        return audioContext;
     }
 
-    function initAmbienceGenerators() {
-        if (!audioContext) return;
-
-        const bufferSize = audioContext.sampleRate * 2;
-        const noiseBuffer = audioContext.createBuffer(1, bufferSize, audioContext.sampleRate);
-        const output = noiseBuffer.getChannelData(0);
-        for (let i = 0; i < bufferSize; i++) {
-            output[i] = (Math.random() * 2 - 1) * 0.08;
-        }
-
-        // Vinyl Crackle (starts muted)
-        const whiteNoise = audioContext.createBufferSource();
-        whiteNoise.buffer = noiseBuffer;
-        whiteNoise.loop = true;
-        const vinylFilter = audioContext.createBiquadFilter();
-        vinylFilter.type = "bandpass";
-        vinylFilter.frequency.value = 1800;
-        vinylFilter.Q.value = 1.2;
-        vinylGain = audioContext.createGain();
-        vinylGain.gain.value = 0;
-
-        whiteNoise.connect(vinylFilter);
-        vinylFilter.connect(vinylGain);
-        vinylGain.connect(audioContext.destination);
-        whiteNoise.start();
-
-        // Rain (starts muted)
-        const rainNoise = audioContext.createBufferSource();
-        rainNoise.buffer = noiseBuffer;
-        rainNoise.loop = true;
-        const rainFilter = audioContext.createBiquadFilter();
-        rainFilter.type = "lowpass";
-        rainFilter.frequency.value = 900;
-        rainGain = audioContext.createGain();
-        rainGain.gain.value = 0;
-
-        rainNoise.connect(rainFilter);
-        rainFilter.connect(rainGain);
-        rainGain.connect(audioContext.destination);
-        rainNoise.start();
-
-        // Chai Tapri Simmer
-        const tapriFilter = audioContext.createBiquadFilter();
-        tapriFilter.type = "bandpass";
-        tapriFilter.frequency.value = 600;
-        tapriGain = audioContext.createGain();
-        tapriGain.gain.value = 0;
-
-        const tapriSource = audioContext.createBufferSource();
-        tapriSource.buffer = noiseBuffer;
-        tapriSource.loop = true;
-        tapriSource.connect(tapriFilter);
-        tapriFilter.connect(tapriGain);
-        tapriGain.connect(audioContext.destination);
-        tapriSource.start();
-
-        // Wind Breeze (starts muted)
-        const windFilter = audioContext.createBiquadFilter();
-        windFilter.type = "lowpass";
-        windFilter.frequency.value = 350;
-        windGain = audioContext.createGain();
-        windGain.gain.value = 0;
-
-        const windSource = audioContext.createBufferSource();
-        windSource.buffer = noiseBuffer;
-        windSource.loop = true;
-        windSource.connect(windFilter);
-        windFilter.connect(windGain);
-        windGain.connect(audioContext.destination);
-        windSource.start();
-    }
-
-    function playChaiSipSFX() {
-        const ctx = getAudioContext();
-        if (!ctx) return;
-        const now = ctx.currentTime;
-
-        const osc = ctx.createOscillator();
-        const gain = ctx.createGain();
-        osc.type = 'sine';
-        osc.frequency.setValueAtTime(320, now);
-        osc.frequency.linearRampToValueAtTime(580, now + 0.18);
-        osc.frequency.linearRampToValueAtTime(240, now + 0.35);
-
-        gain.gain.setValueAtTime(0.01, now);
-        gain.gain.linearRampToValueAtTime(0.18, now + 0.1);
-        gain.gain.exponentialRampToValueAtTime(0.001, now + 0.4);
-
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.start(now);
-        osc.stop(now + 0.42);
-    }
-
-    function playBellSFX() {
-        const ctx = getAudioContext();
-        if (!ctx) return;
-
-        const playRing = (delay, freq) => {
-            const now = ctx.currentTime + delay;
-            const osc = ctx.createOscillator();
-            const gain = ctx.createGain();
-            osc.type = 'sine';
-            osc.frequency.setValueAtTime(freq, now);
-
-            gain.gain.setValueAtTime(0.22, now);
-            gain.gain.exponentialRampToValueAtTime(0.001, now + 0.35);
-
-            osc.connect(gain);
-            gain.connect(ctx.destination);
-            osc.start(now);
-            osc.stop(now + 0.38);
-        };
-
-        playRing(0, 1950);
-        playRing(0.08, 2200);
-        playRing(0.22, 1950);
-        playRing(0.30, 2200);
+    function toggleWeather() {
+        isRainMode = !isRainMode;
+        if (weatherToggleBtn) weatherToggleBtn.classList.toggle('is-rain', isRainMode);
+        if (weatherStatusText) weatherStatusText.textContent = isRainMode ? "बारिश (Rain)" : "शाम (Sunset)";
+        if (weatherTint) weatherTint.classList.toggle('rain', isRainMode);
+        if (heroImg) heroImg.classList.toggle('rain-mode', isRainMode);
+        if (rainCanvas) rainCanvas.classList.toggle('active', isRainMode);
     }
 
     /* ==========================================================================
@@ -4579,7 +4464,6 @@
 
             item.addEventListener('click', (e) => {
                 e.stopPropagation();
-                getAudioContext();
                 const station = PLAYLIST_STATIONS[currentStationKey];
                 if (!station) return;
                 const realIdx = station.tracks.findIndex(t => t.id === track.id);
@@ -4595,37 +4479,6 @@
 
             trackListContainer.appendChild(item);
         });
-    }
-
-    function toggleWeather() {
-        getAudioContext();
-        isRainMode = !isRainMode;
-
-        if (isRainMode) {
-            weatherToggleBtn.classList.add('is-rain');
-            weatherStatusText.textContent = "बारिश (Rain)";
-            weatherTint.classList.add('rain');
-            heroImg.classList.add('rain-mode');
-            rainCanvas.classList.add('active');
-
-            if (rainGain) {
-                rainGain.gain.linearRampToValueAtTime(0.45 * 0.12, audioContext.currentTime + 1.2);
-                ambRainSlider.value = 45;
-                ambRainVal.textContent = '45%';
-            }
-        } else {
-            weatherToggleBtn.classList.remove('is-rain');
-            weatherStatusText.textContent = "शाम (Sunset)";
-            weatherTint.classList.remove('rain');
-            heroImg.classList.remove('rain-mode');
-            rainCanvas.classList.remove('active');
-
-            if (rainGain) {
-                rainGain.gain.linearRampToValueAtTime(0, audioContext.currentTime + 1.2);
-                ambRainSlider.value = 0;
-                ambRainVal.textContent = '0%';
-            }
-        }
     }
 
     /* ==========================================================================
@@ -4778,13 +4631,63 @@
     }
 
     function setupLiveListeners() {
-        let count = 152 + Math.floor(Math.random() * 10);
-        liveListenersCount.textContent = count;
-        setInterval(() => {
-            const delta = Math.floor(Math.random() * 5) - 2;
-            count = Math.max(125, count + delta);
-            liveListenersCount.textContent = count;
-        }, 6000);
+        const liveCountEl = document.getElementById('live-listeners-count');
+        if (!liveCountEl) return;
+
+        // Persistent unique session ID per browser tab
+        let sessionId = sessionStorage.getItem('lallan_tab_session');
+        if (!sessionId) {
+            sessionId = 'tab_' + Math.random().toString(36).substring(2, 10) + '_' + Date.now();
+            sessionStorage.setItem('lallan_tab_session', sessionId);
+        }
+
+        async function sendHeartbeat() {
+            try {
+                const res = await fetch(`/api/heartbeat?session=${sessionId}`);
+                if (res.ok) {
+                    const data = await res.json();
+                    if (data && typeof data.onlineCount !== 'undefined') {
+                        liveCountEl.textContent = Math.max(1, data.onlineCount);
+                    }
+                }
+            } catch (e) {}
+        }
+
+        sendHeartbeat();
+        setInterval(sendHeartbeat, 8000);
+
+        window.addEventListener('pagehide', () => {
+            if (navigator.sendBeacon) {
+                navigator.sendBeacon(`/api/heartbeat/leave?session=${sessionId}`);
+            }
+        });
+    }
+
+    async function setupVisitorsCount() {
+        const visitorEl = document.getElementById('total-visitor-count');
+        if (!visitorEl) return;
+
+        const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+
+        try {
+            const res = await fetch('/api/visitors');
+            if (res.ok) {
+                const data = await res.json();
+                if (data && typeof data.count !== 'undefined') {
+                    visitorEl.textContent = `${Number(data.count).toLocaleString()} Visitors`;
+                    return;
+                }
+            }
+        } catch (e) {}
+
+        // Fallback for static hosting / offline
+        let baseCount = parseInt(localStorage.getItem('lallan_global_visitors') || '0');
+        if (!isLocal && !sessionStorage.getItem('visited_session')) {
+            baseCount++;
+            localStorage.setItem('lallan_global_visitors', baseCount);
+            sessionStorage.setItem('visited_session', '1');
+        }
+        visitorEl.textContent = `${baseCount.toLocaleString()} Visitors`;
     }
 
     const STATION_DISPLAY_NAMES = {
@@ -4860,14 +4763,33 @@
             });
         }
 
-        // Seek Bar
+        // Smooth Interactive Touch & Pointer Seek Scrubbing
         if (progressContainer) {
-            progressContainer.addEventListener('click', (e) => {
-                if (!ytPlayer || !ytPlayer.getDuration) return;
-                const rect = progressContainer.getBoundingClientRect();
-                const clickPercent = (e.clientX - rect.left) / rect.width;
-                const targetTime = clickPercent * ytPlayer.getDuration();
-                ytPlayer.seekTo(targetTime, true);
+            const onPointerMove = (e) => {
+                if (!isDraggingProgress) return;
+                e.preventDefault();
+                updateProgressFromEvent(e);
+            };
+
+            const onPointerUp = (e) => {
+                if (!isDraggingProgress) return;
+                isDraggingProgress = false;
+                progressContainer.classList.remove('is-dragging');
+                applySeekFromEvent(e);
+
+                window.removeEventListener('pointermove', onPointerMove);
+                window.removeEventListener('pointerup', onPointerUp);
+                window.removeEventListener('pointercancel', onPointerUp);
+            };
+
+            progressContainer.addEventListener('pointerdown', (e) => {
+                isDraggingProgress = true;
+                progressContainer.classList.add('is-dragging');
+                updateProgressFromEvent(e);
+
+                window.addEventListener('pointermove', onPointerMove, { passive: false });
+                window.addEventListener('pointerup', onPointerUp);
+                window.addEventListener('pointercancel', onPointerUp);
             });
         }
 
@@ -4908,107 +4830,8 @@
             });
         }
 
-        // Fun Actions (if present)
-        if (chaiSipBtn) {
-            chaiSipBtn.addEventListener('click', () => {
-                playChaiSipSFX();
-            });
-        }
-
-        if (hornBtn) {
-            hornBtn.addEventListener('click', () => {
-                playBellSFX();
-            });
-        }
-
         if (weatherToggleBtn) {
             weatherToggleBtn.addEventListener('click', toggleWeather);
-        }
-
-        // Ambience Mixer Modal
-        if (ambienceMixerBtn) {
-            ambienceMixerBtn.addEventListener('click', () => ambienceModal && ambienceModal.classList.remove('hidden'));
-        }
-        if (closeAmbienceModal) {
-            closeAmbienceModal.addEventListener('click', () => ambienceModal && ambienceModal.classList.add('hidden'));
-        }
-        if (doneAmbienceBtn) {
-            doneAmbienceBtn.addEventListener('click', () => ambienceModal && ambienceModal.classList.add('hidden'));
-        }
-        if (ambienceModal) {
-            ambienceModal.addEventListener('click', (e) => {
-                if (e.target === ambienceModal) ambienceModal.classList.add('hidden');
-            });
-        }
-
-        // Ambience Sliders
-        if (ambRainSlider) {
-            ambRainSlider.addEventListener('input', (e) => {
-                getAudioContext();
-                const val = e.target.value;
-                if (ambRainVal) ambRainVal.textContent = `${val}%`;
-                if (rainGain) rainGain.gain.setValueAtTime((val / 100) * 0.15, audioContext.currentTime);
-                if (val > 0 && !isRainMode) {
-                    isRainMode = true;
-                    if (weatherToggleBtn) weatherToggleBtn.classList.add('is-rain');
-                    if (weatherStatusText) weatherStatusText.textContent = "बारिश (Rain)";
-                    if (weatherTint) weatherTint.classList.add('rain');
-                    if (heroImg) heroImg.classList.add('rain-mode');
-                    if (rainCanvas) rainCanvas.classList.add('active');
-                } else if (val == 0 && isRainMode) {
-                    isRainMode = false;
-                    if (weatherToggleBtn) weatherToggleBtn.classList.remove('is-rain');
-                    if (weatherStatusText) weatherStatusText.textContent = "शाम (Sunset)";
-                    if (weatherTint) weatherTint.classList.remove('rain');
-                    if (heroImg) heroImg.classList.remove('rain-mode');
-                    if (rainCanvas) rainCanvas.classList.remove('active');
-                }
-            });
-        }
-
-        if (ambVinylSlider) {
-            ambVinylSlider.addEventListener('input', (e) => {
-                getAudioContext();
-                const val = e.target.value;
-                if (ambVinylVal) ambVinylVal.textContent = `${val}%`;
-                if (vinylGain) vinylGain.gain.setValueAtTime((val / 100) * 0.15, audioContext.currentTime);
-            });
-        }
-
-        if (ambTapriSlider) {
-            ambTapriSlider.addEventListener('input', (e) => {
-                getAudioContext();
-                const val = e.target.value;
-                if (ambTapriVal) ambTapriVal.textContent = `${val}%`;
-                if (tapriGain) tapriGain.gain.setValueAtTime((val / 100) * 0.08, audioContext.currentTime);
-            });
-        }
-
-        if (ambWindSlider) {
-            ambWindSlider.addEventListener('input', (e) => {
-                getAudioContext();
-                const val = e.target.value;
-                if (ambWindVal) ambWindVal.textContent = `${val}%`;
-                if (windGain) windGain.gain.setValueAtTime((val / 100) * 0.08, audioContext.currentTime);
-            });
-        }
-
-        if (resetAmbienceBtn) {
-            resetAmbienceBtn.addEventListener('click', () => {
-                if (ambRainSlider) ambRainSlider.value = 0;
-                if (ambRainVal) ambRainVal.textContent = '0%';
-                if (ambVinylSlider) ambVinylSlider.value = 0;
-                if (ambVinylVal) ambVinylVal.textContent = '0%';
-                if (ambTapriSlider) ambTapriSlider.value = 0;
-                if (ambTapriVal) ambTapriVal.textContent = '0%';
-                if (ambWindSlider) ambWindSlider.value = 0;
-                if (ambWindVal) ambWindVal.textContent = '0%';
-
-                if (rainGain) rainGain.gain.setValueAtTime(0, audioContext.currentTime);
-                if (vinylGain) vinylGain.gain.setValueAtTime(0, audioContext.currentTime);
-                if (tapriGain) tapriGain.gain.setValueAtTime(0, audioContext.currentTime);
-                if (windGain) windGain.gain.setValueAtTime(0, audioContext.currentTime);
-            });
         }
 
         // Queue Drawer
@@ -5086,17 +4909,8 @@
                 case 'KeyW':
                     toggleWeather();
                     break;
-                case 'KeyC':
-                    if (chaiSipBtn) chaiSipBtn.click();
-                    break;
-                case 'KeyH':
-                    if (hornBtn) hornBtn.click();
-                    break;
                 case 'KeyS':
-                    shuffleBtn.click();
-                    break;
-                case 'KeyA':
-                    ambienceModal.classList.toggle('hidden');
+                    if (shuffleBtn) shuffleBtn.click();
                     break;
                 case 'KeyQ':
                     playlistDrawer.classList.toggle('hidden');
@@ -5163,6 +4977,7 @@
         if (window.lucide) lucide.createIcons();
         setupClock();
         setupLiveListeners();
+        setupVisitorsCount();
         setupCanvases();
         setupPWA();
         bindEvents();
