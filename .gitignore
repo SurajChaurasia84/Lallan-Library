@@ -1,3 +1,9 @@
+# Dependencies & Build Output
+node_modules
+/.next/
+/out/
+.vercel
+
 # Credentials & Environment Variables
 .env
 .env*.local
@@ -9,12 +15,6 @@
 # Live Visitor Data & Logs
 visitors.json
 *.log
-
-# Dependencies & Build Output
-node_modules/
-.next/
-out/
-.vercel
 
 # OS Files
 .DS_Store
