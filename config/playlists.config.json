@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lofi",
+    "name": "Lofi",
+    "url": "https://www.youtube.com/playlist?list=PLfPtz9Xy5pB0jO198yW0QnQ3Z9Q8E_9lo"
+  },
+  {
+    "id": "90s",
+    "name": "90s Hits",
+    "url": "https://www.youtube.com/playlist?list=PLfPtz9Xy5pB0jO198yW0QnQ3Z9Q8E_990"
+  },
+  {
+    "id": "love",
+    "name": "Love",
+    "url": "https://www.youtube.com/playlist?list=PLfPtz9Xy5pB0jO198yW0QnQ3Z9Q8E_lov"
+  },
+  {
+    "id": "trending",
+    "name": "Trending",
+    "url": "https://www.youtube.com/playlist?list=PLfPtz9Xy5pB0jO198yW0QnQ3Z9Q8E_tre"
+  },
+  {
+    "id": "mix",
+    "name": "Mix",
+    "url": "https://www.youtube.com/playlist?list=RDWi3J1Lwh1yY&playnext=1&si=6lzqINxoWtn2IPQr"
+  }
+]
