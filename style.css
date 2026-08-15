@@ -239,27 +239,39 @@ html, body {
     transform: scale(1.08);
 }
 
-.brand-title {
-    font-family: var(--font-hindi-sub);
-    font-size: 1.25rem;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-    color: var(--color-text-main);
-    line-height: 1.1;
+.brand-stats-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.22rem;
+    justify-content: center;
 }
 
-.accent-text {
-    font-family: var(--font-hindi-sub), sans-serif;
+.brand-stat-row {
+    display: flex;
+    align-items: center;
+    gap: 0.42rem;
+    line-height: 1.15;
+}
+
+.brand-stat-icon {
+    width: 13px;
+    height: 13px;
     color: var(--color-accent);
-    font-size: 1.25rem;
-    letter-spacing: 0.5px;
+    flex-shrink: 0;
 }
 
-.brand-subtitle {
-    font-family: var(--font-hindi-body);
-    font-size: 0.72rem;
+.brand-stat-val {
+    font-family: var(--font-ui), sans-serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--color-text-main);
+    letter-spacing: 0.3px;
+}
+
+.brand-stat-row:last-child .brand-stat-val {
+    font-size: 0.73rem;
     color: var(--color-text-muted);
-    letter-spacing: 0.2px;
+    font-weight: 500;
 }
 
 .header-right {
@@ -735,16 +747,20 @@ html, body {
     font-family: var(--font-mono);
     font-size: 0.74rem;
     color: var(--color-text-dim);
-    min-width: 32px;
+    min-width: 48px;
     text-align: center;
+    user-select: none;
 }
 
 .progress-bar-wrapper {
     flex: 1;
-    height: 18px;
+    height: 24px;
     display: flex;
     align-items: center;
     cursor: pointer;
+    touch-action: none;
+    user-select: none;
+    position: relative;
 }
 
 .progress-bar-rail {
@@ -753,10 +769,11 @@ html, body {
     background: rgba(255, 255, 255, 0.12);
     border-radius: var(--radius-full);
     position: relative;
-    transition: height 0.2s ease;
+    transition: height 0.15s ease;
 }
 
-.progress-bar-wrapper:hover .progress-bar-rail {
+.progress-bar-wrapper:hover .progress-bar-rail,
+.progress-bar-wrapper.is-dragging .progress-bar-rail {
     height: 7px;
 }
 
@@ -766,24 +783,28 @@ html, body {
     background: linear-gradient(90deg, #ea580c, #f59e0b);
     border-radius: var(--radius-full);
     position: relative;
+    pointer-events: none;
 }
 
 .progress-scrubber {
     position: absolute;
     top: 50%;
     left: 0%;
-    width: 12px;
-    height: 12px;
+    width: 14px;
+    height: 14px;
     background: #fff;
     border: 2px solid var(--color-accent);
     border-radius: 50%;
-    transform: translate(-50%, -50%) scale(0);
-    transition: transform 0.15s ease;
-    box-shadow: 0 0 8px rgba(245, 158, 11, 0.8);
+    transform: translate(-50%, -50%) scale(0.85);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    box-shadow: 0 0 10px rgba(245, 158, 11, 0.85);
+    pointer-events: none;
 }
 
-.progress-bar-wrapper:hover .progress-scrubber {
-    transform: translate(-50%, -50%) scale(1);
+.progress-bar-wrapper:hover .progress-scrubber,
+.progress-bar-wrapper.is-dragging .progress-scrubber {
+    transform: translate(-50%, -50%) scale(1.25);
+    box-shadow: 0 0 14px rgba(245, 158, 11, 1);
 }
 
 /* Player Right (Visualizer & Volume & Queue) */
@@ -1347,6 +1368,12 @@ html, body {
 
     .clock-pill {
         display: none;
+    }
+
+    /* Hide Full Size / Fullscreen button on mobile devices */
+    #fullscreen-btn,
+    .header-actions {
+        display: none !important;
     }
 
     .hero-hindi-title {
