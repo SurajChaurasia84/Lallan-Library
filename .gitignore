@@ -1,0 +1,21 @@
+# Credentials & Environment Variables
+.env
+.env*.local
+.env.local
+.env.production
+*.pem
+*.key
+
+# Live Visitor Data & Logs
+visitors.json
+*.log
+
+# Dependencies & Build Output
+node_modules/
+.next/
+out/
+.vercel
+
+# OS Files
+.DS_Store
+Thumbs.db
