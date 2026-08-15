@@ -1,13 +1,16 @@
 {
-  "name": "Lallan Library - Nostalgic 90s & 80s Hindi Songs",
-  "short_name": "Lallan Library",
+  "name": "लल्लन लाइब्रेरी",
+  "short_name": "लल्लन लाइब्रेरी",
   "description": "285+ Nostalgic 90s & 80s Hindi Songs, Retro Bollywood Lofi & Evergreen Romantic Classics",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "window-controls-overlay"],
   "background_color": "#0d0907",
-  "theme_color": "#f59e0b",
-  "orientation": "any",
+  "theme_color": "#0d0907",
+  "orientation": "portrait-primary",
   "categories": ["music", "entertainment"],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/assets/lallan.png",

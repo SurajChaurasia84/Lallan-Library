@@ -1495,6 +1495,16 @@ html, body {
     }
 }
 
+/* PWA Standalone Mode adjustments for mobile notch & home indicator */
+@media all and (display-mode: standalone) {
+    .app-layout {
+        padding-top: max(0.85rem, env(safe-area-inset-top, 0px));
+        padding-bottom: max(1rem, env(safe-area-inset-bottom, 0px));
+        padding-left: max(0.85rem, env(safe-area-inset-left, 0px));
+        padding-right: max(0.85rem, env(safe-area-inset-right, 0px));
+    }
+}
+
 /* ==========================================================================
    PWA Install / Add to Home Screen Banner
    ========================================================================== */
