@@ -55,36 +55,36 @@
     <div class="app-layout">
         <!-- Top Navigation Bar -->
         <header class="top-bar">
-            <div class="brand-badge">
+            <div class="brand-badge" title="लाइव समय और कुल विज़िटर्स">
                 <div class="brand-icon-wrapper">
                     <img src="assets/lallan.png" alt="लल्लन Logo" class="brand-logo-img">
                 </div>
-                <div class="brand-text">
-                    <h1 class="brand-title">लल्लन <span class="accent-text">लाइब्रेरी</span></h1>
-                    <p class="brand-subtitle">मूड का ठेका, लल्लन के नाम</p>
+                <div class="brand-stats-group">
+                    <div class="brand-stat-row">
+                        <i data-lucide="clock" class="brand-stat-icon"></i>
+                        <span id="digital-clock" class="brand-stat-val">--:--:-- --</span>
+                    </div>
+                    <div class="brand-stat-row">
+                        <i data-lucide="users" class="brand-stat-icon"></i>
+                        <span id="total-visitor-count" class="brand-stat-val">0 Visitors</span>
+                    </div>
                 </div>
             </div>
 
             <!-- Header Right: Live Stats & Quick Actions -->
             <div class="header-right">
+
+                <!-- Live Listeners Counter -->
+                <div class="quick-pill live-pill" title="लोग अभी साथ में सुन रहे हैं (Live Online)">
+                    <span class="live-dot"></span>
+                    <span class="live-count" id="live-listeners-count">1</span>
+                </div>
+
                 <!-- Weather / Ambience Mood Toggle -->
                 <div class="quick-pill weather-pill" id="weather-toggle-btn" title="Toggle Weather / मौसम बदलें (W)">
                     <i data-lucide="sun" class="pill-icon sun-icon"></i>
                     <i data-lucide="cloud-rain" class="pill-icon rain-icon"></i>
                     <span class="pill-text" id="weather-status-text">शाम (Sunset)</span>
-                </div>
-
-                <!-- Live Listeners Counter -->
-                <div class="quick-pill live-pill" title="लोग अभी साथ में सुन रहे हैं">
-                    <span class="live-dot"></span>
-                    <span class="live-count" id="live-listeners-count">148</span>
-                    <span class="live-label">चाय की चुस्की पर</span>
-                </div>
-
-                <!-- Clock -->
-                <div class="quick-pill clock-pill">
-                    <i data-lucide="clock" class="pill-icon"></i>
-                    <span id="digital-clock" class="digital-clock">06:45:00 PM</span>
                 </div>
 
                 <!-- Quick Action Buttons -->
@@ -114,7 +114,7 @@
                         <img src="assets/lallan.png" alt="लल्लन" class="pwa-app-icon">
                     </div>
                     <div class="pwa-text-box">
-                        <div class="pwa-title">Add Lallan Library to your home screen</div>
+                        <div class="pwa-title">Add Lallan Library to home screen</div>
                         <div class="pwa-sub">One tap, no app store, no account</div>
                     </div>
                     <button id="pwa-install-btn" class="pwa-add-btn">Add</button>
@@ -138,8 +138,21 @@
                     </div>
                 </div>
 
-                <!-- Center: Player Controls & Timeline -->
+                <!-- Center: Timeline & Player Controls -->
                 <div class="player-center">
+                    <!-- Progress Bar & Timers (Above Controls) -->
+                    <div class="timeline-container">
+                        <span id="current-time" class="time-label">0:00</span>
+                        <div class="progress-bar-wrapper" id="progress-container">
+                            <div class="progress-bar-rail">
+                                <div id="progress-bar-fill" class="progress-bar-fill"></div>
+                                <div id="progress-scrubber" class="progress-scrubber"></div>
+                            </div>
+                        </div>
+                        <span id="total-duration" class="time-label">4:20</span>
+                    </div>
+
+                    <!-- Player Controls Row -->
                     <div class="player-controls">
                         <!-- Shuffle Button -->
                         <button id="shuffle-btn" class="control-btn" title="Shuffle / शफल (S)">
@@ -170,18 +183,6 @@
                         <button id="repeat-btn" class="control-btn" title="Repeat Mode / दोहराएं (L)">
                             <i data-lucide="repeat"></i>
                         </button>
-                    </div>
-
-                    <!-- Progress Bar & Timers -->
-                    <div class="timeline-container">
-                        <span id="current-time" class="time-label">0:00</span>
-                        <div class="progress-bar-wrapper" id="progress-container">
-                            <div class="progress-bar-rail">
-                                <div id="progress-bar-fill" class="progress-bar-fill"></div>
-                                <div id="progress-scrubber" class="progress-scrubber"></div>
-                            </div>
-                        </div>
-                        <span id="total-duration" class="time-label">4:20</span>
                     </div>
                 </div>
 
