@@ -2,23 +2,20 @@ import './globals.css';
 
 export const metadata = {
     metadataBase: new URL('https://lallan-library.vercel.app'),
-    title: 'लल्लन लाइब्रेरी (Lallan Library) | 90s & 80s Hindi Songs, Retro Bollywood Lofi Online',
-    description: 'Official Lallan Library (लल्लन लाइब्रेरी) online retro music web app. Listen to 285+ non-stop Nostalgic 90s & 80s Hindi songs, Slowed & Reverb Bollywood Lofi, and timeless romantic classics in a warm ambient player.',
+    title: 'Lallan Library - Online 90s & 80s Hindi Songs | Retro Bollywood Music Player',
+    description: 'Lallan Library is a free online retro music web app featuring 285+ non-stop Nostalgic 90s & 80s Hindi songs, Slowed & Reverb Bollywood Lofi, and evergreen romantic classics.',
     keywords: [
         'Lallan Library',
         'Lallan Library Online',
-        'Lallan Library Website',
         'Lallan Library Music',
         'Lallan Library Songs',
-        'लल्लन लाइब्रेरी',
-        'लल्लन लाइब्रेरी गाने',
-        'लल्लन लाइब्रेरी लफी',
-        'लल्लन लाइब्रेरी म्यूजिक',
+        'Lallan Library Web App',
         'Lallan Lofi',
+        'Lallan Music Player',
         'Nostalgic 90s Hindi Songs',
-        '80s Hindi Songs',
+        '80s Hindi Songs Online',
         '90s Bollywood Romantic Songs',
-        'Retro Hindi Songs',
+        'Retro Hindi Songs Player',
         'Evergreen Bollywood Classics',
         '90s Lofi Hindi Songs',
         'Slowed and Reverb Hindi Songs',
@@ -50,25 +47,25 @@ export const metadata = {
         },
     },
     openGraph: {
-        title: 'लल्लन लाइब्रेरी (Lallan Library) | 90s & 80s Hindi Songs & Retro Bollywood Lofi',
-        description: 'Official Lallan Library online player. Listen to 285+ curated 90s & 80s Hindi songs, Slowed & Reverb lofi tracks with ambient rain & sunset vibes.',
+        title: 'Lallan Library - Online 90s & 80s Hindi Songs & Retro Bollywood Lofi',
+        description: 'Lallan Library is a free web application to listen to 285+ curated Nostalgic 90s & 80s Hindi songs, Slowed & Reverb lofi, and romantic classics with ambient rain & sunset vibes.',
         url: 'https://lallan-library.vercel.app/',
-        siteName: 'लल्लन लाइब्रेरी (Lallan Library)',
-        locale: 'hi_IN',
+        siteName: 'Lallan Library',
+        locale: 'en_US',
         type: 'website',
         images: [
             {
                 url: '/assets/lallan.png',
                 width: 512,
                 height: 512,
-                alt: 'लल्लन लाइब्रेरी (Lallan Library) - Nostalgic 90s & 80s Hindi Songs',
+                alt: 'Lallan Library - Online 90s & 80s Hindi Songs Player',
             },
         ],
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'लल्लन लाइब्रेरी (Lallan Library) | 90s & 80s Hindi Songs',
-        description: '285+ Curated Nostalgic 90s & 80s Hindi Songs, Retro Bollywood Lofi, and Classic Melodies in an ambient chillout player.',
+        title: 'Lallan Library - Online 90s & 80s Hindi Songs',
+        description: '285+ Curated Nostalgic 90s & 80s Hindi Songs, Retro Bollywood Lofi, and Classic Melodies in a free ambient web player.',
         images: ['/assets/lallan.png'],
     },
     verification: {
@@ -95,20 +92,17 @@ export default function RootLayout({ children }) {
                 '@id': 'https://lallan-library.vercel.app/#website',
                 url: 'https://lallan-library.vercel.app/',
                 name: 'Lallan Library',
-                alternateName: ['लल्लन लाइब्रेरी', 'Lallan Library Online', 'Lallan Lofi'],
-                description: 'Official online web app for 285+ Nostalgic 90s & 80s Hindi songs, Retro Bollywood Lofi & Evergreen Melodies.',
-                inLanguage: 'hi-IN',
+                alternateName: ['Lallan Lofi', 'Lallan Music Library', 'लल्लन लाइब्रेरी'],
+                description: 'Free online music streaming web application for 90s & 80s Hindi Songs, Retro Bollywood, and Lofi classics.'
             },
             {
                 '@type': 'WebApplication',
                 '@id': 'https://lallan-library.vercel.app/#webapp',
-                name: 'Lallan Library (लल्लन लाइब्रेरी)',
-                alternateName: 'Lallan Library Online Music Player',
+                name: 'Lallan Library',
                 url: 'https://lallan-library.vercel.app/',
                 applicationCategory: 'MultimediaApplication',
-                applicationSubCategory: 'Music & Audio Streaming Service',
-                operatingSystem: 'All (Web Browser, Android, iOS, Windows, macOS)',
-                browserRequirements: 'Requires HTML5 Audio & JavaScript',
+                operatingSystem: 'All',
+                browserRequirements: 'Requires HTML5 Audio Support',
                 offers: {
                     '@type': 'Offer',
                     price: '0',
@@ -117,19 +111,18 @@ export default function RootLayout({ children }) {
             },
             {
                 '@type': 'MusicPlaylist',
-                '@id': 'https://lallan-library.vercel.app/#playlist',
-                name: 'लल्लन लाइब्रेरी (Lallan Library) - Nostalgic 90s & 80s Hindi Songs',
+                name: 'Lallan Library - Nostalgic 90s & 80s Hindi Songs',
                 description: '285+ Handpicked Nostalgic 90s & 80s Hindi songs, Retro Bollywood Lofi, and timeless romantic melodies.',
                 url: 'https://lallan-library.vercel.app/',
                 numTracks: 285,
                 genre: ['Bollywood', 'Lofi', 'Retro', '90s Hindi', '80s Hindi', 'Romantic', 'Chillout'],
                 inLanguage: 'hi',
-            },
+            }
         ],
     };
 
     return (
-        <html lang="hi">
+        <html lang="en">
             <head>
                 <link rel="icon" href="/assets/lallan.png" />
                 <link rel="apple-touch-icon" href="/assets/lallan.png" />
